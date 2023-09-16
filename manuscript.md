@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-16" />
   <meta name="citation_publication_date" content="2023-09-16" />
   <meta property="article:published_time" content="2023-09-16" />
-  <meta name="dc.modified" content="2023-09-16T13:26:13+00:00" />
-  <meta property="article:modified_time" content="2023-09-16T13:26:13+00:00" />
+  <meta name="dc.modified" content="2023-09-16T13:39:10+00:00" />
+  <meta property="article:modified_time" content="2023-09-16T13:39:10+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/86a9a1c85bc40d0790dd08f06f113e3b1e84be01/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/86a9a1c85bc40d0790dd08f06f113e3b1e84be01/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/86a9a1c85bc40d0790dd08f06f113e3b1e84be01/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/03ceda4ac661be05199685e46a99594bff67e773/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/03ceda4ac661be05199685e46a99594bff67e773/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/03ceda4ac661be05199685e46a99594bff67e773/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/86a9a1c85bc40d0790dd08f06f113e3b1e84be01/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/03ceda4ac661be05199685e46a99594bff67e773/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@86a9a1c](https://github.com/In-Vivo-Group/generative-biology/tree/86a9a1c85bc40d0790dd08f06f113e3b1e84be01)
+from [In-Vivo-Group/generative-biology@03ceda4](https://github.com/In-Vivo-Group/generative-biology/tree/03ceda4ac661be05199685e46a99594bff67e773)
 on September 16, 2023.
 </em></small>
 
@@ -117,7 +117,13 @@ Alexander J. Titus \<contact@theinvivogroup.com\>.
 
 ## Abstract {.page_break_before}
 
+The rapid pace of progress in generative artificial intelligence (AI) techniques like deep learning, reinforcement learning, and transformer neural networks is transforming the life sciences and biomedicine. This living review paper provides an updatable, comprehensive overview and analysis of the latest literature on generative biology – the application of cutting-edge generative AI methods to accelerate insights and innovation across the life sciences and healthcare. All authors are welcome to contribute to this review via pull requests. 
 
+The review synthesizes key developments in using generative models for de novo biomedical discovery, design, and decision support. It examines techniques and applications including deep learning on omics data for personalized medicine, generative chemistry for drug development, protein structure prediction for molecular engineering, image synthesis for pathology, language models for clinical decision support, robotic simulation for prosthetics, and generative networks for cell programming. 
+
+The review highlights representative studies and benchmarks in each area while contextualizing progress, limitations, emerging best practices, and directions for future work. It also discusses social and ethical challenges raised by generative biology applications, such as compounding bias, system opacity, and dual-use risks, alongside proposed solutions.
+
+As a living review, this paper will be continually updated as the field rapidly advances to provide researchers and practitioners with an up-to-date reference on the state of the art in employing generative AI to accelerate biomedicine for the collective good.
 
 
 # Introduction
