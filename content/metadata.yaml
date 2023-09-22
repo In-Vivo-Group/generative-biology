@@ -1,5 +1,5 @@
 ---
-title: "Generative Biology Living Review"
+title: "Generative Biology"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
   - Artificial Intelligence
@@ -12,7 +12,7 @@ authors:
     name: Alexander J. Titus
     initials: AJT
     orcid: 0000-0002-0145-9564
-    email: contact@theinvivogroup.com
+    email: publications@theinvivogroup.com
     affiliations:
       - In Vivo Group, Washington, DC, USA
       - International Computer Science Institute, Berkeley, CA, USA
