@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Generative Biology Review
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -10,8 +10,19 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This manuscript is a living document to assess the growing field of generative biology -- i.e. the applications of generative AI to the life sciences. 
+
+This will be part one of a three-part series as follows:
+- Generative Biology
+- Generative Biology & Biosecurity
+- Generative Biology & Policy
+
+This manuscript will start as a single document to cut down on the logistics of multiple documents, but will eventually be split apart into three separate manuscripts. 
+
+# Contribution notes
+Papers should be submitted for consideration as an [issue](https://github.com/In-Vivo-Group/generative-biology/issues). Issues should include as much detail as possible, but at a minimum, they should include the title of the paper and a link to the paper (preferably a DOI). An ideal issue will also include a 3-5 sentence summary of the main takeaway of the paper to make it easiest to include in the relevant sections of the review.
+
+Contributions to this manuscript are welcome in the form of [pull requests](https://github.com/In-Vivo-Group/generative-biology/pulls). For any questions about this manuscript, submit an [issue](https://github.com/In-Vivo-Group/generative-biology/issues) with your question, or email **Alexander Titus** at [publications@theinvivogroup.com](mailto:titus@theinvivogroup.com).
 
 ## Manubot
 
