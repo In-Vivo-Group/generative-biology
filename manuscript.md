@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-22" />
   <meta name="citation_publication_date" content="2023-09-22" />
   <meta property="article:published_time" content="2023-09-22" />
-  <meta name="dc.modified" content="2023-09-22T22:23:12+00:00" />
-  <meta property="article:modified_time" content="2023-09-22T22:23:12+00:00" />
+  <meta name="dc.modified" content="2023-09-22T22:23:44+00:00" />
+  <meta property="article:modified_time" content="2023-09-22T22:23:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/aed29e1fb9baa2ad6e5dfa98e5017c4bbac15872/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/aed29e1fb9baa2ad6e5dfa98e5017c4bbac15872/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/aed29e1fb9baa2ad6e5dfa98e5017c4bbac15872/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/a369597fc5aec56d166b55427e2756472f3f77b2/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/a369597fc5aec56d166b55427e2756472f3f77b2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/a369597fc5aec56d166b55427e2756472f3f77b2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/aed29e1fb9baa2ad6e5dfa98e5017c4bbac15872/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/a369597fc5aec56d166b55427e2756472f3f77b2/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@aed29e1](https://github.com/In-Vivo-Group/generative-biology/tree/aed29e1fb9baa2ad6e5dfa98e5017c4bbac15872)
+from [In-Vivo-Group/generative-biology@a369597](https://github.com/In-Vivo-Group/generative-biology/tree/a369597fc5aec56d166b55427e2756472f3f77b2)
 on September 22, 2023.
 </em></small>
 
@@ -141,14 +141,14 @@ This is the start of the Generative Biology living review!
 This will be the bulk of the review, focusing on the technical progress across generative biology.
 
 
-# Policy
-
-Science doesn't happen in a vacuum, and the authors are active in science and technology policy as well as foundational research. This section will highlight relevant policy movement in generative biology.
-
-
 # Security
 
 Generative biology poses opportunities and risks to national and biosecurity, and this section will highlight relevant advances across these domains. 
+
+
+# Policy
+
+Science doesn't happen in a vacuum, and the authors are active in science and technology policy as well as foundational research. This section will highlight relevant policy movement in generative biology.
 
 
 ## References {.page_break_before}
