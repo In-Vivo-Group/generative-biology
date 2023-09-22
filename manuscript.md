@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-22" />
   <meta name="citation_publication_date" content="2023-09-22" />
   <meta property="article:published_time" content="2023-09-22" />
-  <meta name="dc.modified" content="2023-09-22T12:34:43+00:00" />
-  <meta property="article:modified_time" content="2023-09-22T12:34:43+00:00" />
+  <meta name="dc.modified" content="2023-09-22T12:43:02+00:00" />
+  <meta property="article:modified_time" content="2023-09-22T12:43:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/a0db92d61bd17213cf202b4f318e292b8c43101a/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/a0db92d61bd17213cf202b4f318e292b8c43101a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/a0db92d61bd17213cf202b4f318e292b8c43101a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/4b547ff0c28248db13833b99cebb87817c9238c5/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/4b547ff0c28248db13833b99cebb87817c9238c5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/4b547ff0c28248db13833b99cebb87817c9238c5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/a0db92d61bd17213cf202b4f318e292b8c43101a/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/4b547ff0c28248db13833b99cebb87817c9238c5/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@a0db92d](https://github.com/In-Vivo-Group/generative-biology/tree/a0db92d61bd17213cf202b4f318e292b8c43101a)
+from [In-Vivo-Group/generative-biology@4b547ff](https://github.com/In-Vivo-Group/generative-biology/tree/4b547ff0c28248db13833b99cebb87817c9238c5)
 on September 22, 2023.
 </em></small>
 
@@ -124,6 +124,11 @@ The review synthesizes key developments in using generative models for de novo b
 The review highlights representative studies and benchmarks in each area while contextualizing progress, limitations, emerging best practices, and directions for future work. It also discusses social and ethical challenges raised by generative biology applications, such as compounding bias, system opacity, and dual-use risks, alongside proposed solutions.
 
 As a living review, this paper will be continually updated as the field rapidly advances to provide researchers and practitioners with an up-to-date reference on the state of the art in employing generative AI to accelerate biomedicine for the collective good.
+
+
+# Executive Summary
+
+The goal with be a 2 page TL;DR of the review after v1 is complete.
 
 
 # Introduction
