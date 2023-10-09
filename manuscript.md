@@ -6,10 +6,10 @@ keywords:
 - Machine Learning
 - Biology
 lang: en-US
-date-meta: '2023-09-26'
+date-meta: '2023-10-09'
 author-meta:
 - Alexander J. Titus
-- Your Name
+- Matthew E. Walsh
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Generative Biology" />
   <meta property="og:title" content="Generative Biology" />
   <meta property="twitter:title" content="Generative Biology" />
-  <meta name="dc.date" content="2023-09-26" />
-  <meta name="citation_publication_date" content="2023-09-26" />
-  <meta property="article:published_time" content="2023-09-26" />
-  <meta name="dc.modified" content="2023-09-26T11:12:54+00:00" />
-  <meta property="article:modified_time" content="2023-09-26T11:12:54+00:00" />
+  <meta name="dc.date" content="2023-10-09" />
+  <meta name="citation_publication_date" content="2023-10-09" />
+  <meta property="article:published_time" content="2023-10-09" />
+  <meta name="dc.modified" content="2023-10-09T21:34:32+00:00" />
+  <meta property="article:modified_time" content="2023-10-09T21:34:32+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,7 +36,7 @@ header-includes: |
   <meta name="citation_author_institution" content="In Vivo Group, Washington, DC, USA" />
   <meta name="citation_author_institution" content="International Computer Science Institute, Berkeley, CA, USA" />
   <meta name="citation_author_orcid" content="0000-0002-0145-9564" />
-  <meta name="citation_author" content="Your Name" />
+  <meta name="citation_author" content="Matthew E. Walsh" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/e199593379e23ff0ae5602d1119e65488c54e90a/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/e199593379e23ff0ae5602d1119e65488c54e90a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/e199593379e23ff0ae5602d1119e65488c54e90a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/1da1e9eff272d240e05ee6a8d02736a364c76660/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/1da1e9eff272d240e05ee6a8d02736a364c76660/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/1da1e9eff272d240e05ee6a8d02736a364c76660/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,10 +70,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/e199593379e23ff0ae5602d1119e65488c54e90a/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/1da1e9eff272d240e05ee6a8d02736a364c76660/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@e199593](https://github.com/In-Vivo-Group/generative-biology/tree/e199593379e23ff0ae5602d1119e65488c54e90a)
-on September 26, 2023.
+from [In-Vivo-Group/generative-biology@1da1e9e](https://github.com/In-Vivo-Group/generative-biology/tree/1da1e9eff272d240e05ee6a8d02736a364c76660)
+on October 9, 2023.
 </em></small>
 
 
@@ -94,7 +94,7 @@ on September 26, 2023.
      · Funded by Grant TBD
   </small>
 
-+ **Your Name**
++ **Matthew E. Walsh**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
