@@ -6,7 +6,7 @@ keywords:
 - Machine Learning
 - Biology
 lang: en-US
-date-meta: '2023-10-09'
+date-meta: '2023-10-17'
 author-meta:
 - Alexander J. Titus
 - Matthew E. Walsh
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Generative Biology" />
   <meta property="og:title" content="Generative Biology" />
   <meta property="twitter:title" content="Generative Biology" />
-  <meta name="dc.date" content="2023-10-09" />
-  <meta name="citation_publication_date" content="2023-10-09" />
-  <meta property="article:published_time" content="2023-10-09" />
-  <meta name="dc.modified" content="2023-10-09T21:39:22+00:00" />
-  <meta property="article:modified_time" content="2023-10-09T21:39:22+00:00" />
+  <meta name="dc.date" content="2023-10-17" />
+  <meta name="citation_publication_date" content="2023-10-17" />
+  <meta property="article:published_time" content="2023-10-17" />
+  <meta name="dc.modified" content="2023-10-17T10:18:12+00:00" />
+  <meta property="article:modified_time" content="2023-10-17T10:18:12+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -37,18 +37,18 @@ header-includes: |
   <meta name="citation_author_institution" content="International Computer Science Institute, Berkeley, CA, USA" />
   <meta name="citation_author_orcid" content="0000-0002-0145-9564" />
   <meta name="citation_author" content="Matthew E. Walsh" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_institution" content="Center for Health Security, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA" />
+  <meta name="citation_author_institution" content="Department of Environmental Health and Engineering, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA" />
+  <meta name="citation_author_orcid" content="0000-0003-1514-7761" />
   <link rel="canonical" href="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta property="og:url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta property="twitter:url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/11645163100a9b51451250438458d130bf966a25/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/11645163100a9b51451250438458d130bf966a25/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/11645163100a9b51451250438458d130bf966a25/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/43b994c5b32701d1aa21d59de8accf072a778703/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/43b994c5b32701d1aa21d59de8accf072a778703/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/43b994c5b32701d1aa21d59de8accf072a778703/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,10 +70,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/11645163100a9b51451250438458d130bf966a25/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/43b994c5b32701d1aa21d59de8accf072a778703/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@1164516](https://github.com/In-Vivo-Group/generative-biology/tree/11645163100a9b51451250438458d130bf966a25)
-on October 9, 2023.
+from [In-Vivo-Group/generative-biology@43b994c](https://github.com/In-Vivo-Group/generative-biology/tree/43b994c5b32701d1aa21d59de8accf072a778703)
+on October 17, 2023.
 </em></small>
 
 
@@ -97,12 +97,12 @@ on October 9, 2023.
 + **Matthew E. Walsh**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0003-1514-7761](https://orcid.org/0000-0003-1514-7761)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [mwalsh52](https://github.com/mwalsh52)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Center for Health Security, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA; Department of Environmental Health and Engineering, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA
   </small>
 
 

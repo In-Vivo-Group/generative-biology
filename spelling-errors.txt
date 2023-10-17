@@ -1,6 +1,7 @@
 alexandertitus
 biomedicine
 biosecurity
+Bloomberg
 mwalsh
 novo
 omics
@@ -8,4 +9,3 @@ prosthetics
 TBD
 updatable
 Vivo
-XXXX
