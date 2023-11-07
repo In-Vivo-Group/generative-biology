@@ -14,10 +14,24 @@ This manuscript is a living document to assess the growing field of generative b
 
 The goal of this manuscript is to collaboratively write and review the field, and will take the same form and process as the recent [Opportunities and obstacles for deep learning in biology and medicine](https://github.com/greenelab/deep-review) review paper. This is not a duplicative paper, as the AI world has changed dramatically in the last few months. Lets write this together and set a baseline understanding for the field. 
 
-# Contribution notes
+## Contribution notes
 Papers should be submitted for consideration as an [issue](https://github.com/In-Vivo-Group/generative-biology/issues). Issues should include as much detail as possible, but at a minimum, they should include the title of the paper and a link to the paper (preferably a DOI). An ideal issue will also include a 3-5 sentence summary of the main takeaway of the paper to make it easiest to include in the relevant sections of the review.
 
 Contributions to this manuscript are welcome in the form of [pull requests](https://github.com/In-Vivo-Group/generative-biology/pulls). For any questions about this manuscript, submit an [issue](https://github.com/In-Vivo-Group/generative-biology/issues) with your question, or email **Alexander Titus** at [publications@theinvivogroup.com](mailto:titus@theinvivogroup.com).
+
+# FAQ
+<details>
+<summary><b>Can I contribute?</b></summary>
+
+Yes, everyone is welcome and encouraged to contribute to this manuscript. We ask that you do so through issues, pull requests, and engaging with the content thoughtfully. If we're missing a paper, create and issue and log it. If we're describing or interpreting a paper incorrectly, fork it, edit it, and create a pull request to help us be better. 
+
+</details>
+<details>
+<summary><b>Why are you writing this?</b></summary>
+
+The fields of generative AI and modern biology research are moving so fast that a static review will never be up to date. This review is designed to give people a baseline place to start their journey to understand and contribute to the use of AI tools to study, design, and create new life sciences and biotechnology applications. 
+
+</details>
 
 ## Manubot
 
