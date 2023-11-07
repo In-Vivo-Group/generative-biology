@@ -32,6 +32,12 @@ Yes, everyone is welcome and encouraged to contribute to this manuscript. We ask
 The fields of generative AI and modern biology research are moving so fast that a static review will never be up to date. This review is designed to give people a baseline place to start their journey to understand and contribute to the use of AI tools to study, design, and create new life sciences and biotechnology applications. 
 
 </details>
+<details>
+<summary><b>What do I do if I have a question?</b></summary>
+
+Issues. Lots of issues. It's not that you have issues, but that we want to have issues. If you have questions, submit them so that we can track it and someone can help you. If we get the question enough, it will end up in these FAQs. Submit your issues!
+
+</details>
 
 ## Manubot
 
