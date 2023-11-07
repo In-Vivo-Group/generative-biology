@@ -38,6 +38,12 @@ The fields of generative AI and modern biology research are moving so fast that 
 Issues. Lots of issues. It's not that you have issues, but that we want to have issues. If you have questions, submit them so that we can track it and someone can help you. If we get the question enough, it will end up in these FAQs. Submit your issues!
 
 </details>
+<details>
+<summary><b>What is Manubot?</b></summary>
+
+Read everything on this README file below this question :-D
+
+</details>
 
 ## Manubot
 
