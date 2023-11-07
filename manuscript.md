@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-07" />
   <meta name="citation_publication_date" content="2023-11-07" />
   <meta property="article:published_time" content="2023-11-07" />
-  <meta name="dc.modified" content="2023-11-07T00:55:29+00:00" />
-  <meta property="article:modified_time" content="2023-11-07T00:55:29+00:00" />
+  <meta name="dc.modified" content="2023-11-07T00:58:13+00:00" />
+  <meta property="article:modified_time" content="2023-11-07T00:58:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/3b4283653a982bd058cb3fe2a7bb6608cb5f2af2/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/3b4283653a982bd058cb3fe2a7bb6608cb5f2af2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/3b4283653a982bd058cb3fe2a7bb6608cb5f2af2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/8f559c9833ffae8ab211abc61bb11c6bd8c17aef/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/8f559c9833ffae8ab211abc61bb11c6bd8c17aef/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/8f559c9833ffae8ab211abc61bb11c6bd8c17aef/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/3b4283653a982bd058cb3fe2a7bb6608cb5f2af2/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/8f559c9833ffae8ab211abc61bb11c6bd8c17aef/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@3b42836](https://github.com/In-Vivo-Group/generative-biology/tree/3b4283653a982bd058cb3fe2a7bb6608cb5f2af2)
+from [In-Vivo-Group/generative-biology@8f559c9](https://github.com/In-Vivo-Group/generative-biology/tree/8f559c9833ffae8ab211abc61bb11c6bd8c17aef)
 on November 7, 2023.
 </em></small>
 
@@ -377,7 +377,7 @@ Brief background on rise of generative models like GPT-3, DALL-E, AlphaFold, etc
 - Staying ahead of the curve on biosecurity
 
 
-# Policy Responses to Generative Biology
+# Policy Responses to Generative AI in Biology
 
 ## Introduction
 
