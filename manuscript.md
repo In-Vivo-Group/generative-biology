@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-07" />
   <meta name="citation_publication_date" content="2023-11-07" />
   <meta property="article:published_time" content="2023-11-07" />
-  <meta name="dc.modified" content="2023-11-07T00:51:35+00:00" />
-  <meta property="article:modified_time" content="2023-11-07T00:51:35+00:00" />
+  <meta name="dc.modified" content="2023-11-07T00:53:29+00:00" />
+  <meta property="article:modified_time" content="2023-11-07T00:53:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/492c10657cd4a43833313e018e235827378d45f2/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/492c10657cd4a43833313e018e235827378d45f2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/492c10657cd4a43833313e018e235827378d45f2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/20b6c9ae944db566b37d1a64898af3f285ff7276/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/20b6c9ae944db566b37d1a64898af3f285ff7276/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/20b6c9ae944db566b37d1a64898af3f285ff7276/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/492c10657cd4a43833313e018e235827378d45f2/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/20b6c9ae944db566b37d1a64898af3f285ff7276/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@492c106](https://github.com/In-Vivo-Group/generative-biology/tree/492c10657cd4a43833313e018e235827378d45f2)
+from [In-Vivo-Group/generative-biology@20b6c9a](https://github.com/In-Vivo-Group/generative-biology/tree/20b6c9ae944db566b37d1a64898af3f285ff7276)
 on November 7, 2023.
 </em></small>
 
@@ -330,6 +330,51 @@ Brief background on rise of generative models like GPT-3, DALL-E, AlphaFold, etc
 - Balancing generative AI's benefits and risks in biology
 - Importance of thoughtful governance and responsible innovation
 - Staying ahead of the curve on biosecurity
+
+
+# Generative AI for Autonomous Experimentation 
+
+## Introduction
+
+- Promise of generative models to accelerate scientific discovery
+- Rise of autonomous labs and robotics for automated experimentation
+- Overview of generative AI's role in self-driving research 
+
+## Closed-Loop Systems
+
+- Integrating computational hypothesis generation with robotic wet lab testing
+- Reinforcement learning pipelines for autonomous optimization
+- Case studies in materials science, drug discovery
+
+## Automated Experiment Design
+
+- Using generative models to design novel compounds, genes
+- Leveraging simulations to predict experimental outcomes
+- Robotic execution of designed experiments 
+
+## Adaptive Sampling
+
+- Active learning to iteratively select most informative experiments 
+- Bayesian optimization powered by neural networks
+- Applications in probing molecular design spaces
+
+## Real-Time Learning
+
+- Deploying models on lab edge devices 
+- Online learning from experimental data streams
+- Improving models and experiment plans on-the-fly
+
+## Outlook
+
+- Key challenges around model accuracy and integration
+- The future of data-driven, self-driving laboratories
+- Risks of full automation and need for human oversight
+
+## Conclusion
+
+- Generative AI as a powerful tool for autonomous experimentation
+- Accelerating discovery alongside human researchers
+- Responsible implementation will maximize benefit
 
 
 ## References {.page_break_before}

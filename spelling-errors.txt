@@ -17,6 +17,7 @@ DeepMind’s
 genomic
 GPT
 Imagen
+iteratively
 Meta’s
 Multimodal
 mwalsh
