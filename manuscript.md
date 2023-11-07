@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-07" />
   <meta name="citation_publication_date" content="2023-11-07" />
   <meta property="article:published_time" content="2023-11-07" />
-  <meta name="dc.modified" content="2023-11-07T00:54:42+00:00" />
-  <meta property="article:modified_time" content="2023-11-07T00:54:42+00:00" />
+  <meta name="dc.modified" content="2023-11-07T00:55:29+00:00" />
+  <meta property="article:modified_time" content="2023-11-07T00:55:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/b0981aeb0844a305ebad528fcce06c252ea32ae8/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/b0981aeb0844a305ebad528fcce06c252ea32ae8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/b0981aeb0844a305ebad528fcce06c252ea32ae8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/3b4283653a982bd058cb3fe2a7bb6608cb5f2af2/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/3b4283653a982bd058cb3fe2a7bb6608cb5f2af2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/3b4283653a982bd058cb3fe2a7bb6608cb5f2af2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/b0981aeb0844a305ebad528fcce06c252ea32ae8/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/3b4283653a982bd058cb3fe2a7bb6608cb5f2af2/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@b0981ae](https://github.com/In-Vivo-Group/generative-biology/tree/b0981aeb0844a305ebad528fcce06c252ea32ae8)
+from [In-Vivo-Group/generative-biology@3b42836](https://github.com/In-Vivo-Group/generative-biology/tree/3b4283653a982bd058cb3fe2a7bb6608cb5f2af2)
 on November 7, 2023.
 </em></small>
 
@@ -294,44 +294,6 @@ Brief background on rise of generative models like GPT-3, DALL-E, AlphaFold, etc
 - Ethical considerations for human genome editing
 
 
-# Generative AI and the Biosecurity Landscape
-
-## Introduction
-
-- Background on biosecurity threats from natural, accidental, and intentional pathogens
-- Rise of generative AI as a dual use technology for biodefense and misuse 
-
-## Enhanced Risks
-
-- Automated bioweapon design with generative models
-- Relatively low computing needs to generate dangerous agents
-- Challenges detecting artificially generated sequences/organisms
-
-## Enhanced Response Capabilities
-
-- Generative models for vaccine and therapeutic design
-- High-throughput testing of countermeasures with synthetic data
-- AI for early detection of emergent pathogens and outbreaks
-
-## Recommendations
-
-- Increased oversight for generative model development/release
-- Expanding biosecurity legislation and regulations 
-- Fostering open research and global cooperation  
-
-## Outlook
-
-- Trajectory toward increasingly powerful generative biological capabilities  
-- Need for preventative ethics research and guidance
-- Maintaining public trust and avoiding overreaction 
-
-## Conclusion
-
-- Balancing generative AI's benefits and risks in biology
-- Importance of thoughtful governance and responsible innovation
-- Staying ahead of the curve on biosecurity
-
-
 # Generative AI for Autonomous Experimentation 
 
 ## Introduction
@@ -375,6 +337,44 @@ Brief background on rise of generative models like GPT-3, DALL-E, AlphaFold, etc
 - Generative AI as a powerful tool for autonomous experimentation
 - Accelerating discovery alongside human researchers
 - Responsible implementation will maximize benefit
+
+
+# Generative AI and the Biosecurity Landscape
+
+## Introduction
+
+- Background on biosecurity threats from natural, accidental, and intentional pathogens
+- Rise of generative AI as a dual use technology for biodefense and misuse 
+
+## Enhanced Risks
+
+- Automated bioweapon design with generative models
+- Relatively low computing needs to generate dangerous agents
+- Challenges detecting artificially generated sequences/organisms
+
+## Enhanced Response Capabilities
+
+- Generative models for vaccine and therapeutic design
+- High-throughput testing of countermeasures with synthetic data
+- AI for early detection of emergent pathogens and outbreaks
+
+## Recommendations
+
+- Increased oversight for generative model development/release
+- Expanding biosecurity legislation and regulations 
+- Fostering open research and global cooperation  
+
+## Outlook
+
+- Trajectory toward increasingly powerful generative biological capabilities  
+- Need for preventative ethics research and guidance
+- Maintaining public trust and avoiding overreaction 
+
+## Conclusion
+
+- Balancing generative AI's benefits and risks in biology
+- Importance of thoughtful governance and responsible innovation
+- Staying ahead of the curve on biosecurity
 
 
 # Policy Responses to Generative Biology
