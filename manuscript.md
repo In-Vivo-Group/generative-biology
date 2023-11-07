@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-07" />
   <meta name="citation_publication_date" content="2023-11-07" />
   <meta property="article:published_time" content="2023-11-07" />
-  <meta name="dc.modified" content="2023-11-07T00:53:29+00:00" />
-  <meta property="article:modified_time" content="2023-11-07T00:53:29+00:00" />
+  <meta name="dc.modified" content="2023-11-07T00:54:42+00:00" />
+  <meta property="article:modified_time" content="2023-11-07T00:54:42+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/20b6c9ae944db566b37d1a64898af3f285ff7276/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/20b6c9ae944db566b37d1a64898af3f285ff7276/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/20b6c9ae944db566b37d1a64898af3f285ff7276/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/b0981aeb0844a305ebad528fcce06c252ea32ae8/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/b0981aeb0844a305ebad528fcce06c252ea32ae8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/b0981aeb0844a305ebad528fcce06c252ea32ae8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/20b6c9ae944db566b37d1a64898af3f285ff7276/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/b0981aeb0844a305ebad528fcce06c252ea32ae8/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@20b6c9a](https://github.com/In-Vivo-Group/generative-biology/tree/20b6c9ae944db566b37d1a64898af3f285ff7276)
+from [In-Vivo-Group/generative-biology@b0981ae](https://github.com/In-Vivo-Group/generative-biology/tree/b0981aeb0844a305ebad528fcce06c252ea32ae8)
 on November 7, 2023.
 </em></small>
 
@@ -375,6 +375,51 @@ Brief background on rise of generative models like GPT-3, DALL-E, AlphaFold, etc
 - Generative AI as a powerful tool for autonomous experimentation
 - Accelerating discovery alongside human researchers
 - Responsible implementation will maximize benefit
+
+
+# Policy Responses to Generative Biology
+
+## Introduction
+
+- Background on rise of powerful generative models for biology
+- Overview of risks like bioweapons, environmental damage
+- Need for governance to ensure responsible development
+
+## Self-Governance by Developers
+
+- Voluntary guidelines on ethical AI by corporations  
+- Limiting access to certain capabilities like human editing
+- Issues with self-regulation and transparency 
+
+## Governmental Regulations 
+
+- New biosecurity regulations on certain AI technologies
+- Restrictions on use of synthetic biology IP
+- Challenges with fast pace of technology change
+
+## International Governance
+
+- Proposals for global observatory to monitor risks
+- Treaties restricting development of bioweapons  
+- Difficulty achieving consensus and compliance
+
+## Public Deliberation and Ethics
+
+- Activities to involve broader stakeholders 
+- Gathering public attitudes on acceptable uses of generative bio AI
+- Informing policy with deliberative democracy   
+
+## Outlook
+
+- Likely increase in debate and policy activity in this space
+- Balancing innovation and security will be a key challenge
+- Importance of thoughtful multidisciplinary discourse
+
+## Conclusion
+
+- No easy policy solutions, but inaction also carries risks
+- Policy should enable innovation but promote responsible use
+- This will require sustained public deliberation and coordination
 
 
 ## References {.page_break_before}

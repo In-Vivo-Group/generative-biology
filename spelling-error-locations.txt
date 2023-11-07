@@ -43,3 +43,6 @@ content/08.Biosecurity.md:6:biodefense
 content/08.Biosecurity.md:10:bioweapon
 content/08.Biosecurity.md:23:biosecurity
 content/08.Biosecurity.md:36:biosecurity
+content/10.policy.md:6:bioweapons
+content/10.policy.md:17:biosecurity
+content/10.policy.md:24:bioweapons

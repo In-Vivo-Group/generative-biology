@@ -7,8 +7,9 @@ Benchmarking
 biodefense
 biomaterials
 biomedicine
-Biosecurity
+biosecurity
 bioweapon
+bioweapons
 Bloomberg
 CRISPR
 DALL
