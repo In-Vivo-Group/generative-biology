@@ -4,8 +4,11 @@ Anthropic’s
 antisense
 autoencoders
 Benchmarking
+biodefense
 biomaterials
 biomedicine
+Biosecurity
+bioweapon
 Bloomberg
 CRISPR
 DALL
