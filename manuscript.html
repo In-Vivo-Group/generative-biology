@@ -54,8 +54,8 @@
   <meta name="dc.date" content="2023-11-07" />
   <meta name="citation_publication_date" content="2023-11-07" />
   <meta property="article:published_time" content="2023-11-07" />
-  <meta name="dc.modified" content="2023-11-07T00:58:13+00:00" />
-  <meta property="article:modified_time" content="2023-11-07T00:58:13+00:00" />
+  <meta name="dc.modified" content="2023-11-07T01:07:54+00:00" />
+  <meta property="article:modified_time" content="2023-11-07T01:07:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -76,9 +76,9 @@
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/8f559c9833ffae8ab211abc61bb11c6bd8c17aef/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/8f559c9833ffae8ab211abc61bb11c6bd8c17aef/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/8f559c9833ffae8ab211abc61bb11c6bd8c17aef/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/838c8888e7c2cce659c7ca109be2aca7a3346c16/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/838c8888e7c2cce659c7ca109be2aca7a3346c16/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/838c8888e7c2cce659c7ca109be2aca7a3346c16/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -95,9 +95,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://In-Vivo-Group.github.io/generative-biology/v/8f559c9833ffae8ab211abc61bb11c6bd8c17aef/">permalink</a>)
+(<a href="https://In-Vivo-Group.github.io/generative-biology/v/838c8888e7c2cce659c7ca109be2aca7a3346c16/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/In-Vivo-Group/generative-biology/tree/8f559c9833ffae8ab211abc61bb11c6bd8c17aef">In-Vivo-Group/generative-biology@8f559c9</a>
+from <a href="https://github.com/In-Vivo-Group/generative-biology/tree/838c8888e7c2cce659c7ca109be2aca7a3346c16">In-Vivo-Group/generative-biology@838c888</a>
 on November 7, 2023.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -250,17 +250,16 @@ Alexander J. Titus &lt;publications@theinvivogroup.com&gt;.</p>
 <h1 id="advances-in-generative-ai-for-dna">Advances in Generative AI for DNA</h1>
 <h2 id="introduction-4">Introduction</h2>
 <ul>
-<li>Background on role of DNA as carrier of genetic information<br />
+<li>Background on the role of DNA as a carrier of genetic information<br />
 </li>
 <li>Promise of generative models to advance DNA research</li>
-<li>Scope focused on latest advances in DNA prediction and design</li>
+<li>Scope focused on the latest advances in DNA prediction and design</li>
 </ul>
 <h2 id="sequence-modeling">Sequence Modeling</h2>
-<ul>
-<li>Transformer architectures for modeling DNA sequences</li>
-<li>Pretraining on large genomic datasets</li>
-<li>Applications in variant calling and annotation</li>
-</ul>
+<h3 id="transformer-architectures-for-modeling-dna-sequences">Transformer architectures for modeling DNA sequences</h3>
+<p>The HyenaDNA paper introduces a new genomic foundation model called HyenaDNA that can process DNA sequences at single nucleotide resolution with ultralong context lengths up to 1 million base pairs - a 500x increase over previous transformer models. HyenaDNA uses a parameter-efficient convolutional architecture that allows it to scale subquadratically with sequence length, enabling the use of full genome-scale context. On a range of regulatory genomics prediction tasks, HyenaDNA matches or exceeds the performance of previous state-of-the-art models while using 1500x fewer parameters and 3200x less pretraining data. HyenaDNA also demonstrates the ability to perform challenging species classification using the full mutational profile visible at 1 million base pairs of context. The authors explore new training techniques to enable ultralong sequence modeling as well as prompt-based tuning methods for rapidly adapting to new tasks without updating pre-trained weights <span class="citation" data-cites="3wB77oTL">[<a href="#ref-3wB77oTL" role="doc-biblioref">1</a>]</span>.</p>
+<h3 id="pretraining-on-large-genomic-datasets">Pretraining on large genomic datasets</h3>
+<h3 id="applications-in-variant-calling-and-annotation">Applications in variant calling and annotation</h3>
 <h2 id="regulation-prediction">Regulation Prediction</h2>
 <ul>
 <li>Graph neural networks for modeling 3D genome architecture</li>
@@ -413,8 +412,10 @@ Alexander J. Titus &lt;publications@theinvivogroup.com&gt;.</p>
 </ul>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Explicitly insert bibliography here -->
-<div id="refs" role="doc-bibliography">
-
+<div id="refs" class="references csl-bib-body" role="doc-bibliography">
+<div id="ref-3wB77oTL" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline"><strong>HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution</strong> <div class="csl-block">Eric Nguyen, Michael Poli, Marjan Faizi, Armin Thomas, Callum Birch-Sykes, Michael Wornow, Aman Patel, Clayton Rabideau, Stefano Massaroli, Yoshua Bengio, … Chris Ré</div> <em>arXiv</em> (2023) <a href="https://doi.org/gs3v5j">https://doi.org/gs3v5j</a> <div class="csl-block">DOI: <a href="https://doi.org/10.48550/arxiv.2306.15794">10.48550/arxiv.2306.15794</a></div></div>
+</div>
 </div>
 <!-- default theme -->
 
