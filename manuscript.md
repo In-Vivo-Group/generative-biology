@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-07" />
   <meta name="citation_publication_date" content="2023-11-07" />
   <meta property="article:published_time" content="2023-11-07" />
-  <meta name="dc.modified" content="2023-11-07T00:48:39+00:00" />
-  <meta property="article:modified_time" content="2023-11-07T00:48:39+00:00" />
+  <meta name="dc.modified" content="2023-11-07T00:49:40+00:00" />
+  <meta property="article:modified_time" content="2023-11-07T00:49:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/b7c0af6803cc81995037b077e67c75d81994a440/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/b7c0af6803cc81995037b077e67c75d81994a440/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/b7c0af6803cc81995037b077e67c75d81994a440/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/8f12a68cc2b661911c9e6273616a1fc48f1c404f/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/8f12a68cc2b661911c9e6273616a1fc48f1c404f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/8f12a68cc2b661911c9e6273616a1fc48f1c404f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/b7c0af6803cc81995037b077e67c75d81994a440/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/8f12a68cc2b661911c9e6273616a1fc48f1c404f/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@b7c0af6](https://github.com/In-Vivo-Group/generative-biology/tree/b7c0af6803cc81995037b077e67c75d81994a440)
+from [In-Vivo-Group/generative-biology@8f12a68](https://github.com/In-Vivo-Group/generative-biology/tree/8f12a68cc2b661911c9e6273616a1fc48f1c404f)
 on November 7, 2023.
 </em></small>
 
@@ -253,6 +253,45 @@ Brief background on rise of generative models like GPT-3, DALL-E, AlphaFold, etc
 - Key challenges in prediction of long RNA structures
 - Design of RNA for self-assembly and scaffolding
 - Ethical use of synthetic RNA technologies
+
+
+# Advances in Generative AI for DNA
+
+## Introduction
+
+- Background on role of DNA as carrier of genetic information  
+- Promise of generative models to advance DNA research
+- Scope focused on latest advances in DNA prediction and design
+
+## Sequence Modeling
+
+- Transformer architectures for modeling DNA sequences
+- Pretraining on large genomic datasets
+- Applications in variant calling and annotation
+
+## Regulation Prediction
+
+- Graph neural networks for modeling 3D genome architecture
+- Predicting enhancer-promoter interactions and expression
+- Design of synthetic promoters and enhancers
+
+## Genome Editing
+
+- Generative models for CRISPR guide design
+- Contextual prediction of on-target editing efficacy  
+- Modeling of off-target effects during optimization
+
+## DNA Data Generation
+
+- Variational autoencoders for realistic DNA sequences
+- Generating paired genomic-transcriptomic data
+- Applications in training genome interpretation models
+
+## Outlook  
+
+- Challenges in predicting long-range chromatin interactions
+- Responsible design of synthetic genomes
+- Ethical considerations for human genome editing
 
 
 ## References {.page_break_before}
