@@ -22,3 +22,4 @@ content/04.generative-ai.md:29:Multimodal
 content/04.generative-ai.md:31:Imagen
 content/04.generative-ai.md:31:Parti
 content/04.generative-ai.md:32:Imagen
+content/05.proteins.md:25:biomaterials

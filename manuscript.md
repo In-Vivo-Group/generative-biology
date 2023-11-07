@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-07" />
   <meta name="citation_publication_date" content="2023-11-07" />
   <meta property="article:published_time" content="2023-11-07" />
-  <meta name="dc.modified" content="2023-11-07T00:43:04+00:00" />
-  <meta property="article:modified_time" content="2023-11-07T00:43:04+00:00" />
+  <meta name="dc.modified" content="2023-11-07T00:47:27+00:00" />
+  <meta property="article:modified_time" content="2023-11-07T00:47:27+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/8de33bc97ffa88f923a8b27c87fc2312f9873208/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/8de33bc97ffa88f923a8b27c87fc2312f9873208/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/8de33bc97ffa88f923a8b27c87fc2312f9873208/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/55336ea6f06b41c9d5ed83f72a8c041c75ba5878/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/55336ea6f06b41c9d5ed83f72a8c041c75ba5878/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/55336ea6f06b41c9d5ed83f72a8c041c75ba5878/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/8de33bc97ffa88f923a8b27c87fc2312f9873208/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/55336ea6f06b41c9d5ed83f72a8c041c75ba5878/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@8de33bc](https://github.com/In-Vivo-Group/generative-biology/tree/8de33bc97ffa88f923a8b27c87fc2312f9873208)
+from [In-Vivo-Group/generative-biology@55336ea](https://github.com/In-Vivo-Group/generative-biology/tree/55336ea6f06b41c9d5ed83f72a8c041c75ba5878)
 on November 7, 2023.
 </em></small>
 
@@ -175,6 +175,45 @@ Brief background on rise of generative models like GPT-3, DALL-E, AlphaFold, etc
 - Key challenges and limitations of current generative models
 - Likely future advances building on these models
 - Broader societal impact of widely available generative models
+
+
+# Advances in Generative AI for Proteins
+
+## Introduction
+
+- Background on proteins as key molecular machines in biology
+- Promise of generative AI to accelerate protein discovery and engineering
+- Overview of scope covering recent advances in last 1-2 years
+
+## Structure Prediction
+
+- AlphaFold2 as a breakthrough method for structure prediction
+- Novel model architecture and training methodology 
+- Examples of new biological insights from predicted structures
+
+## Function Prediction
+
+- Using predicted structures to infer protein functions
+- Structure-based identification of catalytic and binding sites
+- Case studies of novel enzyme functions discovered
+
+## Designing Novel Proteins
+
+- Generative models for designing functional protein sequences
+- Leveraging structural constraints for optimized protein engineering
+- Applications in industrial enzymes, therapeutics, biomaterials
+
+## Interaction Prediction
+
+- Modeling protein-protein interactions with graph networks
+- Structure-based prediction of protein-drug bindings
+- Applications in drug discovery and toxicity screening
+
+## Outlook 
+
+- Challenges and next steps in improving accuracy 
+- Hybrid physics- and data-driven approaches
+- Ethical considerations in synthetic protein design
 
 
 ## References {.page_break_before}
