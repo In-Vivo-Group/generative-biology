@@ -10,14 +10,9 @@
 
 <!-- usage note: edit this section. -->
 
-This manuscript is a living document to assess the growing field of generative biology -- i.e. the applications of generative AI to the life sciences. 
+This manuscript is a living document to assess the growing field of generative biology -- i.e. the applications of generative AI to the life sciences. We're early in the process of writing this review, and we're even early in the process of building generative biology applications for science, engineering, and product development. 
 
-This will be part one of a three-part series as follows:
-- Generative Biology
-- Generative Biology & Biosecurity
-- Generative Biology & Policy
-
-This manuscript will start as a single document to cut down on the logistics of multiple documents, but will eventually be split apart into three separate manuscripts. 
+The goal of this manuscript is to collaboratively write and review the field, and will take the same form and process as the recent [Opportunities and obstacles for deep learning in biology and medicine](https://github.com/greenelab/deep-review) review paper. This is not a duplicative paper, as the AI world has changed dramatically in the last few months. Lets write this together and set a baseline understanding for the field. 
 
 # Contribution notes
 Papers should be submitted for consideration as an [issue](https://github.com/In-Vivo-Group/generative-biology/issues). Issues should include as much detail as possible, but at a minimum, they should include the title of the paper and a link to the paper (preferably a DOI). An ideal issue will also include a 3-5 sentence summary of the main takeaway of the paper to make it easiest to include in the relevant sections of the review.
