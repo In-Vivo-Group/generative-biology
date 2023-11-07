@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-07" />
   <meta name="citation_publication_date" content="2023-11-07" />
   <meta property="article:published_time" content="2023-11-07" />
-  <meta name="dc.modified" content="2023-11-07T00:40:53+00:00" />
-  <meta property="article:modified_time" content="2023-11-07T00:40:53+00:00" />
+  <meta name="dc.modified" content="2023-11-07T00:43:04+00:00" />
+  <meta property="article:modified_time" content="2023-11-07T00:43:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/13226bf9e3b495af36f27149ce037dcc53c3ebaa/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/13226bf9e3b495af36f27149ce037dcc53c3ebaa/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/13226bf9e3b495af36f27149ce037dcc53c3ebaa/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/8de33bc97ffa88f923a8b27c87fc2312f9873208/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/8de33bc97ffa88f923a8b27c87fc2312f9873208/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/8de33bc97ffa88f923a8b27c87fc2312f9873208/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/13226bf9e3b495af36f27149ce037dcc53c3ebaa/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/8de33bc97ffa88f923a8b27c87fc2312f9873208/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@13226bf](https://github.com/In-Vivo-Group/generative-biology/tree/13226bf9e3b495af36f27149ce037dcc53c3ebaa)
+from [In-Vivo-Group/generative-biology@8de33bc](https://github.com/In-Vivo-Group/generative-biology/tree/8de33bc97ffa88f923a8b27c87fc2312f9873208)
 on November 7, 2023.
 </em></small>
 
@@ -134,6 +134,47 @@ The goal with be a 2 page TL;DR of the review after v1 is complete. Need more co
 # Introduction
 
 This is the start of the Generative Biology living review!
+
+
+# Recent Advances in Generative AI
+
+## Introduction
+
+Brief background on rise of generative models like GPT-3, DALL-E, AlphaFold, etc. Summary of scope and goals of chapter focused on key advances in last 1-2 years.
+
+## Transformer-Based Language Models
+
+### GPT-3 and Foundation Models
+
+- Overview of GPT-3 architecture and self-supervised training on massive text corpus 
+- Discussion of GPT-3 capabilities and limits, including few-shot learning
+- Concept of foundation models as basis for many downstream applications
+
+### Other Notable Models
+
+- Summary of other major transformer language models like Google's PaLM, DeepMind's Gopher, Meta's OPT, Anthropic's Claude etc.
+- Comparison of model sizes, architectures, training approaches
+- Benchmarking of models on various NLP tasks
+
+## Multimodal Generative Models
+
+### DALL-E 2 and Text-to-Image Generation
+
+- Explain DALL-E 2 architecture and training methodology
+- Discuss capabilities in text-to-image generation 
+- Issues around bias, appropriate use cases
+
+### Other Multimodal Models
+
+- Overview of models like Imagen, Parti, Flamingo for text-to-image
+- Discussion of video generation models like Googles Imagen Video
+- Models for text to 3D shapes, text to music etc.
+
+## Outlook
+
+- Key challenges and limitations of current generative models
+- Likely future advances building on these models
+- Broader societal impact of widely available generative models
 
 
 ## References {.page_break_before}
