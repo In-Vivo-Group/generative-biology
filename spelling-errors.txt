@@ -20,6 +20,7 @@ genomic
 GPT
 HyenaDNA
 Imagen
+intercellular
 iteratively
 Meta’s
 Multimodal

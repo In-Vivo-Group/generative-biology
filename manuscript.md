@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2023-11-07" />
   <meta name="citation_publication_date" content="2023-11-07" />
   <meta property="article:published_time" content="2023-11-07" />
-  <meta name="dc.modified" content="2023-11-07T01:07:54+00:00" />
-  <meta property="article:modified_time" content="2023-11-07T01:07:54+00:00" />
+  <meta name="dc.modified" content="2023-11-07T01:09:57+00:00" />
+  <meta property="article:modified_time" content="2023-11-07T01:09:57+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/838c8888e7c2cce659c7ca109be2aca7a3346c16/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/838c8888e7c2cce659c7ca109be2aca7a3346c16/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/838c8888e7c2cce659c7ca109be2aca7a3346c16/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/a109856ac26cd0cb873d06b815f385ed99d72c97/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/a109856ac26cd0cb873d06b815f385ed99d72c97/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/a109856ac26cd0cb873d06b815f385ed99d72c97/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/838c8888e7c2cce659c7ca109be2aca7a3346c16/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/a109856ac26cd0cb873d06b815f385ed99d72c97/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@838c888](https://github.com/In-Vivo-Group/generative-biology/tree/838c8888e7c2cce659c7ca109be2aca7a3346c16)
+from [In-Vivo-Group/generative-biology@a109856](https://github.com/In-Vivo-Group/generative-biology/tree/a109856ac26cd0cb873d06b815f385ed99d72c97)
 on November 7, 2023.
 </em></small>
 
@@ -291,9 +291,11 @@ The HyenaDNA paper introduces a new genomic foundation model called HyenaDNA tha
 
 ## Outlook  
 
-- Challenges in predicting long-range chromatin interactions
-- Responsible design of synthetic genomes
-- Ethical considerations for human genome editing
+### Challenges in predicting long-range chromatin interactions
+The development of transformer architectures like HyenaDNA that can leverage genome-scale context creates new opportunities for understanding long-range chromatin interactions, gene regulation, and intercellular networks. However, significant challenges remain in improving model accuracy and uncertainty quantification. Hybrid physics- and data-driven approaches may help address these gaps. Safety considerations around synthetic genome design also warrant further research to ensure responsible innovation as these generative capabilities advance. Overall, the future looks bright for generative models that can capture both local mutations and global patterns critical to biology @doi:10.48550/arXiv.2306.15794.
+
+### Responsible design of synthetic genomes
+### Ethical considerations for human genome editing
 
 
 # Generative AI for Autonomous Experimentation 

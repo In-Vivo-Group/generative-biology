@@ -48,6 +48,8 @@ content/07.DNA.md:31:autoencoders
 content/07.DNA.md:31:Variational
 content/07.DNA.md:32:genomic
 content/07.DNA.md:32:transcriptomic
+content/07.DNA.md:38:HyenaDNA
+content/07.DNA.md:38:intercellular
 content/08.auto-science.md:23:iteratively
 content/09.Biosecurity.md:1:Biosecurity
 content/09.Biosecurity.md:5:biosecurity
