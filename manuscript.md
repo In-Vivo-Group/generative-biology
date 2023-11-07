@@ -6,7 +6,7 @@ keywords:
 - Machine Learning
 - Biology
 lang: en-US
-date-meta: '2023-10-17'
+date-meta: '2023-11-07'
 author-meta:
 - Alexander J. Titus
 - Matthew E. Walsh
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Generative Biology" />
   <meta property="og:title" content="Generative Biology" />
   <meta property="twitter:title" content="Generative Biology" />
-  <meta name="dc.date" content="2023-10-17" />
-  <meta name="citation_publication_date" content="2023-10-17" />
-  <meta property="article:published_time" content="2023-10-17" />
-  <meta name="dc.modified" content="2023-10-17T10:18:12+00:00" />
-  <meta property="article:modified_time" content="2023-10-17T10:18:12+00:00" />
+  <meta name="dc.date" content="2023-11-07" />
+  <meta name="citation_publication_date" content="2023-11-07" />
+  <meta property="article:published_time" content="2023-11-07" />
+  <meta name="dc.modified" content="2023-11-07T00:30:29+00:00" />
+  <meta property="article:modified_time" content="2023-11-07T00:30:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/43b994c5b32701d1aa21d59de8accf072a778703/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/43b994c5b32701d1aa21d59de8accf072a778703/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/43b994c5b32701d1aa21d59de8accf072a778703/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/b9c398a5d8f7e4aaa6d9614cedcdfdc3d1f7ad24/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/b9c398a5d8f7e4aaa6d9614cedcdfdc3d1f7ad24/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/b9c398a5d8f7e4aaa6d9614cedcdfdc3d1f7ad24/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,10 +70,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/43b994c5b32701d1aa21d59de8accf072a778703/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/b9c398a5d8f7e4aaa6d9614cedcdfdc3d1f7ad24/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@43b994c](https://github.com/In-Vivo-Group/generative-biology/tree/43b994c5b32701d1aa21d59de8accf072a778703)
-on October 17, 2023.
+from [In-Vivo-Group/generative-biology@b9c398a](https://github.com/In-Vivo-Group/generative-biology/tree/b9c398a5d8f7e4aaa6d9614cedcdfdc3d1f7ad24)
+on November 7, 2023.
 </em></small>
 
 
