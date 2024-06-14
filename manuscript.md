@@ -6,7 +6,7 @@ keywords:
 - Machine Learning
 - Biology
 lang: en-US
-date-meta: '2023-11-07'
+date-meta: '2024-06-14'
 author-meta:
 - Alexander J. Titus
 - Matthew E. Walsh
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Generative Biology" />
   <meta property="og:title" content="Generative Biology" />
   <meta property="twitter:title" content="Generative Biology" />
-  <meta name="dc.date" content="2023-11-07" />
-  <meta name="citation_publication_date" content="2023-11-07" />
-  <meta property="article:published_time" content="2023-11-07" />
-  <meta name="dc.modified" content="2023-11-07T01:23:21+00:00" />
-  <meta property="article:modified_time" content="2023-11-07T01:23:21+00:00" />
+  <meta name="dc.date" content="2024-06-14" />
+  <meta name="citation_publication_date" content="2024-06-14" />
+  <meta property="article:published_time" content="2024-06-14" />
+  <meta name="dc.modified" content="2024-06-14T19:07:04+00:00" />
+  <meta property="article:modified_time" content="2024-06-14T19:07:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/9e31e9637c6738e95aaf21eb5c0c5e9cb380b53d/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/9e31e9637c6738e95aaf21eb5c0c5e9cb380b53d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/9e31e9637c6738e95aaf21eb5c0c5e9cb380b53d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/6a8510b146304adb1104247d6c5fb7398d08c974/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/6a8510b146304adb1104247d6c5fb7398d08c974/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/6a8510b146304adb1104247d6c5fb7398d08c974/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,10 +70,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/9e31e9637c6738e95aaf21eb5c0c5e9cb380b53d/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/6a8510b146304adb1104247d6c5fb7398d08c974/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@9e31e96](https://github.com/In-Vivo-Group/generative-biology/tree/9e31e9637c6738e95aaf21eb5c0c5e9cb380b53d)
-on November 7, 2023.
+from [In-Vivo-Group/generative-biology@6a8510b](https://github.com/In-Vivo-Group/generative-biology/tree/6a8510b146304adb1104247d6c5fb7398d08c974)
+on June 14, 2024.
 </em></small>
 
 
@@ -136,45 +136,17 @@ The goal with be a 2 page TL;DR of the review after v1 is complete. Need more co
 This is the start of the Generative Biology living review!
 
 
-# Recent Advances in Generative AI
+# Computers, Algorithms and the Internet
 
-## Introduction
+## 1950s and 1960s: Early computers and algorithms
 
-Brief background on rise of generative models like GPT-3, DALL-E, AlphaFold, etc. Summary of scope and goals of chapter focused on key advances in last 1-2 years.
+Computers were used in the early 1950s for population genetics calculations [@url:https://pubmed.ncbi.nlm.nih.gov/4859964/]. Notably, the inception of computational modeling in biology dates to the origins of computer science itself. British mathematician and logician Alan Turing, often referred to as “the father of computing”, used primitive computers to implement a model of biological morphogenesis (the emergence of pattern and shape in living organisms) in 1952 [@url:https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012]. At about the same time, a computer called MANIAC was used for measuring speculative genetic codes; it  was originally built for weaponry research at the Los Alamos National Laboratory in New Mexico [@url:https://link.springer.com/article/10.1007/BF02628301].
 
-## Transformer-Based Language Models
+Computers were used for the study of protein structure by the 1960s, and other increasingly diverse analyses. These developments marked the rise of the computational biology field, stemming from research focused on protein crystallography, in which scientists found computers indispensable for carrying out laborious Fourier analyses to determine the three-dimensional structure of proteins [@url:https://pubmed.ncbi.nlm.nih.gov/13517261/, @url:https://pubmed.ncbi.nlm.nih.gov/18990802/].
 
-### GPT-3 and Foundation Models
+In addition to advances in determination of protein structures through crystallography, the first sequence of protein, insulin, was published [@url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1198157/, @url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1198158/]. More efficient protein sequencing methods, such as the Edman degradation technique [@ulr:https://pubmed.ncbi.nlm.nih.gov/18134557/], enabled sequencing 15 different proteins over a decade [@url:https://pubmed.ncbi.nlm.nih.gov/11252753/]. COMPROTEIN, one of the first bioinformatics softwares developed in the early 1960s, was designed to overcome the limitations of Edman sequencing [@url:https://www.semanticscholar.org/paper/Comprotein%3A-a-computer-program-to-aid-primary-Dayhoff-Ledley/5c73ddc7e6e3e142736210c8a2e71cc6e647bc41]. In an effort to simplify the handling of protein sequence data for the COMPROTEIN software, a one-letter amino acid code was developed [@url:https://febs.onlinelibrary.wiley.com/toc/14321033/5/2]. This one-letter code was first used in the Atlas of Protein Sequence and Structure [@url:https://pubmed.ncbi.nlm.nih.gov/20665074/], the first biological sequence database, laying the groundwork for paleogenetic studies.
 
-- Overview of GPT-3 architecture and self-supervised training on massive text corpus 
-- Discussion of GPT-3 capabilities and limits, including few-shot learning
-- Concept of foundation models as basis for many downstream applications
-
-### Other Notable Models
-
-- Summary of other major transformer language models like Google's PaLM, DeepMind's Gopher, Meta's OPT, Anthropic's Claude etc.
-- Comparison of model sizes, architectures, training approaches
-- Benchmarking of models on various NLP tasks
-
-## Multimodal Generative Models
-
-### DALL-E 2 and Text-to-Image Generation
-
-- Explain DALL-E 2 architecture and training methodology
-- Discuss capabilities in text-to-image generation 
-- Issues around bias, appropriate use cases
-
-### Other Multimodal Models
-
-- Overview of models like Imagen, Parti, Flamingo for text-to-image
-- Discussion of video generation models like Googles Imagen Video
-- Models for text to 3D shapes, text to music etc.
-
-## Outlook
-
-- Key challenges and limitations of current generative models
-- Likely future advances building on these models
-- Broader societal impact of widely available generative models
+Development of methods to compare protein sequences followed. The Needleman-Wunsch algorithm [@url:https://pubmed.ncbi.nlm.nih.gov/5420325/], the first dynamic programming algorithm developed for pairwise protein sequence alignments, was introduced in the 1970s. Multiple sequence alignment (MSA) algorithms followed in the early 1980s. Progressive sequence alignment was introduced by Feng and Doolittle in 1987 [@url:https://pubmed.ncbi.nlm.nih.gov/3118049/]. The MSA software CLUSTAL, a simplification of the Feng-Doolittle algorithm [@url:https://pubmed.ncbi.nlm.nih.gov/3243435/] was developed in 1988. It is still used and maintained to this day [@url:https://pubmed.ncbi.nlm.nih.gov/24170397/].
 
 
 # Advances in Generative AI for Proteins

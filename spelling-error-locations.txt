@@ -4,24 +4,23 @@ content/01.abstract.md:5:novo
 content/01.abstract.md:5:omics
 content/01.abstract.md:5:prosthetics
 content/01.abstract.md:9:biomedicine
-content/04.generative-ai.md:5:AlphaFold
-content/04.generative-ai.md:5:DALL
-content/04.generative-ai.md:5:GPT
-content/04.generative-ai.md:9:GPT
-content/04.generative-ai.md:11:GPT
-content/04.generative-ai.md:12:GPT
-content/04.generative-ai.md:17:Anthropic's
-content/04.generative-ai.md:17:DeepMind's
-content/04.generative-ai.md:17:Meta's
-content/04.generative-ai.md:19:Benchmarking
-content/04.generative-ai.md:19:NLP
-content/04.generative-ai.md:21:Multimodal
-content/04.generative-ai.md:23:DALL
-content/04.generative-ai.md:25:DALL
-content/04.generative-ai.md:29:Multimodal
-content/04.generative-ai.md:31:Imagen
-content/04.generative-ai.md:31:Parti
-content/04.generative-ai.md:32:Imagen
+content/04.Computers, Algorithms and the Internet.md:5:Alamos
+content/04.Computers, Algorithms and the Internet.md:5:morphogenesis
+content/04.Computers, Algorithms and the Internet.md:9:bioinformatics
+content/04.Computers, Algorithms and the Internet.md:9:Comprotein
+content/04.Computers, Algorithms and the Internet.md:9:COMPROTEIN
+content/04.Computers, Algorithms and the Internet.md:9:COMPROTEIN
+content/04.Computers, Algorithms and the Internet.md:9:Edman
+content/04.Computers, Algorithms and the Internet.md:9:Edman
+content/04.Computers, Algorithms and the Internet.md:9:paleogenetic
+content/04.Computers, Algorithms and the Internet.md:9:softwares
+content/04.Computers, Algorithms and the Internet.md:11:CLUSTAL
+content/04.Computers, Algorithms and the Internet.md:11:Feng
+content/04.Computers, Algorithms and the Internet.md:11:Feng
+content/04.Computers, Algorithms and the Internet.md:11:MSA
+content/04.Computers, Algorithms and the Internet.md:11:MSA
+content/04.Computers, Algorithms and the Internet.md:11:Needleman
+content/04.Computers, Algorithms and the Internet.md:11:Wunsch
 content/05.proteins.md:25:biomaterials
 content/06.RNA.md:13:ribosomes
 content/06.RNA.md:19:noncoding
