@@ -1,18 +1,25 @@
-# Generative Biology Review
+# Computing in the Life Sciences: From Early Algorithms to Modern AI
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
+[![arXiv](https://img.shields.io/badge/arXiv-<paper_id>-brightgreen.svg)](https://arxiv.org/abs/<paper_id>)
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://in-vivo-group.github.io/generative-biology/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://in-vivo-group.github.io/generative-biology/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/in-vivo-group/generative-biology/workflows/Manubot/badge.svg)](https://github.com/in-vivo-group/generative-biology/actions)
 
-## Manuscript description
+## Abstract
 
 <!-- usage note: edit this section. -->
 
-This manuscript is a living document to assess the growing field of generative biology -- i.e. the applications of generative AI to the life sciences. We're early in the process of writing this review, and we're even early in the process of building generative biology applications for science, engineering, and product development. 
+Computing in the life sciences has undergone a transformative evolution, from early computational models in the 1950s to the applications of artificial intelligence (AI) and machine learning (ML) seen today. This paper highlights key milestones and technological advancements through the historical development of computing in the life sciences.. The discussion includes the inception of computational models for biological processes, the advent of bioinformatics tools, and the integration of AI/ML in modern life sciences research. Attention is given to AI-enabled tools used in the life sciences, such as scientific large language models (Sci-LLMs) and bio-AI tools, examining their capabilities, limitations, and impact to biological risk. This paper seeks to clarify and establish essential terminology and concepts to ensure informed decision-making and effective communication across disciplines.
 
-The goal of this manuscript is to collaboratively write and review the field, and will take the same form and process as the recent [Opportunities and obstacles for deep learning in biology and medicine](https://github.com/greenelab/deep-review) review paper. This is not a duplicative paper, as the AI world has changed dramatically in the last few months. Lets write this together and set a baseline understanding for the field. 
+## Motivation
+
+In today's rapidly evolving field of life sciences, technologies like Artificial Intelligence (AI) have become pivotal. However, their distinct roles and applications often blur in discussions, creating a need for clarity and understanding among stakeholders.
+
+This paper aims to provide a comprehensive overview that delves into the historical roots, current applications, and future trajectories of computing technologies in life sciences. By demystifying key terms, outlining fundamental concepts, and tracing their developmental timelines, we seek to bridge the knowledge gap between practitioners and stakeholders. This foundational understanding is crucial for fostering an environment conducive to scientific innovation and achieving impactful public benefit outcomes.
+
+Moreover, the review underscores significant studies and benchmarks within each technological domain. It contextualizes advancements while candidly addressing limitations, emerging best practices, and pivotal directions for future research. Beyond technical achievements, the paper delves into the pressing social and ethical challenges posed by applications of AI in the life sciences. These include issues of bias amplification, algorithmic opacity, and dual-use risks, which necessitate thoughtful consideration and proactive solutions.
 
 ## Contribution notes
 Papers should be submitted for consideration as an [issue](https://github.com/In-Vivo-Group/generative-biology/issues). Issues should include as much detail as possible, but at a minimum, they should include the title of the paper and a link to the paper (preferably a DOI). An ideal issue will also include a 3-5 sentence summary of the main takeaway of the paper to make it easiest to include in the relevant sections of the review.
@@ -23,19 +30,19 @@ Contributions to this manuscript are welcome in the form of [pull requests](http
 <details>
 <summary><b>Can I contribute?</b></summary>
 
-Yes, everyone is welcome and encouraged to contribute to this manuscript. We ask that you do so through issues, pull requests, and engaging with the content thoughtfully. If we're missing a paper, create and issue and log it. If we're describing or interpreting a paper incorrectly, fork it, edit it, and create a pull request to help us be better. 
+Yes, everyone is welcome and encouraged to contribute to this manuscript. We welcome contributions from researchers, practitioners, and stakeholders in the life sciences community and beyond. Whether through insights, case studies, or ethical reflections, your input can enrich ongoing discussions and shape the future of AI in the life sciences. We ask that you do so through issues, pull requests, and engaging with the content thoughtfully. 
 
-</details>
-<details>
-<summary><b>Why are you writing this?</b></summary>
-
-The fields of generative AI and modern biology research are moving so fast that a static review will never be up to date. This review is designed to give people a baseline place to start their journey to understand and contribute to the use of AI tools to study, design, and create new life sciences and biotechnology applications. 
 
 </details>
 <details>
 <summary><b>What do I do if I have a question?</b></summary>
 
 Issues. Lots of issues. It's not that you have issues, but that we want to have issues. If you have questions, submit them so that we can track it and someone can help you. If we get the question enough, it will end up in these FAQs. Submit your issues!
+
+</details>
+<details>
+<summary><b>Where can I find the latest version of this paper?</b></summary>
+The latest version will soon be available on arXiv. Stay tuned for updates and access through this link.
 
 </details>
 <details>
