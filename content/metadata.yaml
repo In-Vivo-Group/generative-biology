@@ -8,28 +8,28 @@ keywords:
   - Biology
 lang: en-US
 authors:
-- github: samadon1
+  - github: samadon1
     name: Samuel A. Donkor
     initials: SAD
     # orcid: 0000-0003-1514-7761
     email: calvinsamueldonkor@gmail.com
     affiliations:
       - In Vivo Group
-- github: mwalsh52
+  - github: mwalsh52
     name: Matthew E. Walsh
     initials: MEW
     orcid: 0000-0003-1514-7761
     email: mwalsh52@jhu.edu
     affiliations:
       - U.S. National Security Commission on Emerging Biotechnology
-      - Department of Environmental Health and Engineering, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA
+      - Department of Environmental Health and Engineering, Johns Hopkins Bloomberg School of Public Health
   - github: alexandertitus
     name: Alexander J. Titus
     initials: AJT
     orcid: 0000-0002-0145-9564
     email: publications@theinvivogroup.com
     affiliations:
-      - In Vivo Group, Washington, DC, USA
+      - In Vivo Group
       - U.S. National Security Commission on Emerging Biotechnology
       - Information Sciences Institute & Iovine and Young Academy, University of Southern California
     funders:
