@@ -1,9 +1,15 @@
-content/01.abstract.md:3:biomedicine
-content/01.abstract.md:3:updatable
-content/01.abstract.md:5:novo
-content/01.abstract.md:5:omics
-content/01.abstract.md:5:prosthetics
-content/01.abstract.md:9:biomedicine
+content/01.abstract.md:3:bioinformatics
+content/01.abstract.md:3:LLMs
+content/01.abstract.md:3:transformative
+content/03.intro.md:3:genomic
+content/03.intro.md:3:morphogenesis
+content/03.intro.md:5:bioinformatics
+content/03.intro.md:5:ChatGPT
+content/03.intro.md:5:GPT
+content/03.intro.md:5:LLMs
+content/03.intro.md:5:LLMs
+content/03.intro.md:5:Pre
+content/03.intro.md:6:LLMs
 content/04.Computers, Algorithms and the Internet.md:5:Alamos
 content/04.Computers, Algorithms and the Internet.md:5:morphogenesis
 content/04.Computers, Algorithms and the Internet.md:5:ncbi
@@ -96,13 +102,12 @@ content/04.Computers, Algorithms and the Internet.md:33:NCBI
 content/04.Computers, Algorithms and the Internet.md:33:NCBI
 content/04.Computers, Algorithms and the Internet.md:35:AlphaFold
 content/04.Computers, Algorithms and the Internet.md:35:AlphaFold
-content/04.Computers, Algorithms and the Internet.md:35:AlphaFold
 content/04.Computers, Algorithms and the Internet.md:35:bioinformatics
 content/04.Computers, Algorithms and the Internet.md:35:bioinformatics
 content/04.Computers, Algorithms and the Internet.md:35:bioinformatics
-content/04.Computers, Algorithms and the Internet.md:35:biomolecular
 content/04.Computers, Algorithms and the Internet.md:35:biomolecular
 content/04.Computers, Algorithms and the Internet.md:35:genomic
+content/04.Computers, Algorithms and the Internet.md:35:ncbi
 content/04.Computers, Algorithms and the Internet.md:37:arxiv
 content/04.Computers, Algorithms and the Internet.md:37:arXiv
 content/04.Computers, Algorithms and the Internet.md:37:biorxiv
@@ -267,42 +272,553 @@ content/05.Artificial Intelligence (AI).md:76:Bing
 content/05.Artificial Intelligence (AI).md:78:ChatGPT
 content/05.Artificial Intelligence (AI).md:79:LLMs
 content/05.Artificial Intelligence (AI).md:80:Chatbots
-content/06.RNA.md:13:ribosomes
-content/06.RNA.md:19:noncoding
-content/06.RNA.md:19:RNAs
-content/06.RNA.md:29:antisense
-content/06.RNA.md:29:siRNA
-content/07.DNA.md:12:arXiv
-content/07.DNA.md:12:convolutional
-content/07.DNA.md:12:genomic
-content/07.DNA.md:12:HyenaDNA
-content/07.DNA.md:12:HyenaDNA
-content/07.DNA.md:12:HyenaDNA
-content/07.DNA.md:12:HyenaDNA
-content/07.DNA.md:12:HyenaDNA
-content/07.DNA.md:12:pre
-content/07.DNA.md:12:pretraining
-content/07.DNA.md:12:subquadratically
-content/07.DNA.md:12:ultralong
-content/07.DNA.md:12:ultralong
-content/07.DNA.md:14:datasets
-content/07.DNA.md:14:genomic
-content/07.DNA.md:14:Pretraining
-content/07.DNA.md:25:CRISPR
-content/07.DNA.md:31:autoencoders
-content/07.DNA.md:31:Variational
-content/07.DNA.md:32:genomic
-content/07.DNA.md:32:transcriptomic
-content/07.DNA.md:38:arXiv
-content/07.DNA.md:38:HyenaDNA
-content/07.DNA.md:38:intercellular
-content/08.auto-science.md:23:iteratively
-content/09.Biosecurity.md:1:Biosecurity
-content/09.Biosecurity.md:5:biosecurity
-content/09.Biosecurity.md:6:biodefense
-content/09.Biosecurity.md:10:bioweapon
-content/09.Biosecurity.md:23:biosecurity
-content/09.Biosecurity.md:36:biosecurity
+content/06.AI in the Life Sciences.md:3:AIxBio
+content/06.AI in the Life Sciences.md:3:LLMs
+content/06.AI in the Life Sciences.md:3:ncbi
+content/06.AI in the Life Sciences.md:5:chatbots
+content/06.AI in the Life Sciences.md:5:chatbots
+content/06.AI in the Life Sciences.md:5:ChatGPT
+content/06.AI in the Life Sciences.md:5:ChatGPT
+content/06.AI in the Life Sciences.md:5:datasets
+content/06.AI in the Life Sciences.md:5:LLM
+content/06.AI in the Life Sciences.md:5:LLM
+content/06.AI in the Life Sciences.md:7:chatbots
+content/06.AI in the Life Sciences.md:7:ChatGPT
+content/06.AI in the Life Sciences.md:7:LLM
+content/06.AI in the Life Sciences.md:7:LLM
+content/06.AI in the Life Sciences.md:9:arxiv
+content/06.AI in the Life Sciences.md:9:arxiv
+content/06.AI in the Life Sciences.md:9:arxiv
+content/06.AI in the Life Sciences.md:9:generalizability
+content/06.AI in the Life Sciences.md:9:HellaSwag
+content/06.AI in the Life Sciences.md:9:LLMs
+content/06.AI in the Life Sciences.md:9:MMLU
+content/06.AI in the Life Sciences.md:9:TruthfulQA
+content/06.AI in the Life Sciences.md:11:LLMs
+content/06.AI in the Life Sciences.md:15:LLM
+content/06.AI in the Life Sciences.md:15:MMLU
+content/06.AI in the Life Sciences.md:15:MMLU
+content/06.AI in the Life Sciences.md:16:TruthfulQA
+content/06.AI in the Life Sciences.md:17:HellaSwag
+content/06.AI in the Life Sciences.md:17:LLM
+content/06.AI in the Life Sciences.md:18:coreference
+content/06.AI in the Life Sciences.md:19:NLP
+content/06.AI in the Life Sciences.md:21:dataset
+content/06.AI in the Life Sciences.md:21:datasets
+content/06.AI in the Life Sciences.md:21:LLMs
+content/06.AI in the Life Sciences.md:21:LLMs
+content/06.AI in the Life Sciences.md:21:LLMs
+content/06.AI in the Life Sciences.md:21:pre
+content/06.AI in the Life Sciences.md:23:arxiv
+content/06.AI in the Life Sciences.md:23:LLMs
+content/06.AI in the Life Sciences.md:25:LLMs
+content/06.AI in the Life Sciences.md:27:LLMs
+content/06.AI in the Life Sciences.md:29:arxiv
+content/06.AI in the Life Sciences.md:29:genomic
+content/06.AI in the Life Sciences.md:29:Genomic
+content/06.AI in the Life Sciences.md:29:LLMs
+content/06.AI in the Life Sciences.md:29:LLMs
+content/06.AI in the Life Sciences.md:29:LLMs
+content/06.AI in the Life Sciences.md:29:LLMs
+content/06.AI in the Life Sciences.md:29:LLMs
+content/06.AI in the Life Sciences.md:29:LLMs
+content/06.AI in the Life Sciences.md:29:LLMs
+content/06.AI in the Life Sciences.md:29:LLMs
+content/06.AI in the Life Sciences.md:29:LLMs
+content/06.AI in the Life Sciences.md:31:LLMs
+content/06.AI in the Life Sciences.md:33:arxiv
+content/06.AI in the Life Sciences.md:33:arxiv
+content/06.AI in the Life Sciences.md:33:arxiv
+content/06.AI in the Life Sciences.md:33:arxiv
+content/06.AI in the Life Sciences.md:33:arxiv
+content/06.AI in the Life Sciences.md:33:datasets
+content/06.AI in the Life Sciences.md:33:LLMs
+content/06.AI in the Life Sciences.md:33:LLMs
+content/06.AI in the Life Sciences.md:33:LLMs
+content/06.AI in the Life Sciences.md:33:NLP
+content/06.AI in the Life Sciences.md:33:NLP
+content/06.AI in the Life Sciences.md:35:arxiv
+content/06.AI in the Life Sciences.md:35:arxiv
+content/06.AI in the Life Sciences.md:35:arxiv
+content/06.AI in the Life Sciences.md:35:arxiv
+content/06.AI in the Life Sciences.md:35:BioGPT
+content/06.AI in the Life Sciences.md:35:BioGPT
+content/06.AI in the Life Sciences.md:35:BioGPT
+content/06.AI in the Life Sciences.md:35:BioMedGPT
+content/06.AI in the Life Sciences.md:35:BioMedGPT
+content/06.AI in the Life Sciences.md:35:BioMedGPT
+content/06.AI in the Life Sciences.md:35:GPT
+content/06.AI in the Life Sciences.md:35:GPT
+content/06.AI in the Life Sciences.md:35:LM
+content/06.AI in the Life Sciences.md:35:LM
+content/06.AI in the Life Sciences.md:35:LM
+content/06.AI in the Life Sciences.md:35:NLP
+content/06.AI in the Life Sciences.md:35:pre
+content/06.AI in the Life Sciences.md:39:LLMs
+content/06.AI in the Life Sciences.md:52:arxiv
+content/06.AI in the Life Sciences.md:52:arxiv
+content/06.AI in the Life Sciences.md:52:KnowEval
+content/06.AI in the Life Sciences.md:52:KnowEval
+content/06.AI in the Life Sciences.md:52:LLMs
+content/06.AI in the Life Sciences.md:52:LLMs
+content/06.AI in the Life Sciences.md:52:LLMs
+content/06.AI in the Life Sciences.md:52:Pre
+content/06.AI in the Life Sciences.md:52:SciEval
+content/06.AI in the Life Sciences.md:54:KnowEval
+content/06.AI in the Life Sciences.md:58:arxiv
+content/06.AI in the Life Sciences.md:58:arxiv
+content/06.AI in the Life Sciences.md:58:Eval
+content/06.AI in the Life Sciences.md:58:MMLU
+content/06.AI in the Life Sciences.md:58:Pre
+content/06.AI in the Life Sciences.md:58:SciEval
+content/06.AI in the Life Sciences.md:59:arxiv
+content/06.AI in the Life Sciences.md:59:arxiv
+content/06.AI in the Life Sciences.md:59:PubMedQA
+content/06.AI in the Life Sciences.md:59:SciEval
+content/06.AI in the Life Sciences.md:59:SciQ
+content/06.AI in the Life Sciences.md:60:arxiv
+content/06.AI in the Life Sciences.md:60:dataset
+content/06.AI in the Life Sciences.md:60:SciEval
+content/06.AI in the Life Sciences.md:60:SciEval
+content/06.AI in the Life Sciences.md:62:LLMs
+content/06.AI in the Life Sciences.md:64:LLMs
+content/06.AI in the Life Sciences.md:68:LLMs
+content/06.AI in the Life Sciences.md:68:MMLU
+content/06.AI in the Life Sciences.md:69:Eval
+content/06.AI in the Life Sciences.md:70:AGIEval
+content/06.AI in the Life Sciences.md:71:dataset
+content/06.AI in the Life Sciences.md:71:ScienceQA
+content/06.AI in the Life Sciences.md:72:dataset
+content/06.AI in the Life Sciences.md:72:SciEval
+content/06.AI in the Life Sciences.md:73:Bioinfo
+content/06.AI in the Life Sciences.md:73:bioinformatics
+content/06.AI in the Life Sciences.md:73:dataset
+content/06.AI in the Life Sciences.md:74:dataset
+content/06.AI in the Life Sciences.md:74:SciQ
+content/06.AI in the Life Sciences.md:75:dataset
+content/06.AI in the Life Sciences.md:76:datasets
+content/06.AI in the Life Sciences.md:76:NLP
+content/06.AI in the Life Sciences.md:76:NLP
+content/06.AI in the Life Sciences.md:77:dataset
+content/06.AI in the Life Sciences.md:77:PubMedQA
+content/06.AI in the Life Sciences.md:80:LLMs
+content/06.AI in the Life Sciences.md:80:Prot
+content/06.AI in the Life Sciences.md:82:LLMs
+content/06.AI in the Life Sciences.md:82:LLMs
+content/06.AI in the Life Sciences.md:82:Prot
+content/06.AI in the Life Sciences.md:82:Prot
+content/06.AI in the Life Sciences.md:84:arxiv
+content/06.AI in the Life Sciences.md:84:biorxiv
+content/06.AI in the Life Sciences.md:84:ESM
+content/06.AI in the Life Sciences.md:84:GearNet
+content/06.AI in the Life Sciences.md:84:GVP
+content/06.AI in the Life Sciences.md:84:LM
+content/06.AI in the Life Sciences.md:84:ncbi
+content/06.AI in the Life Sciences.md:84:PMLM
+content/06.AI in the Life Sciences.md:84:ProteinNPT
+content/06.AI in the Life Sciences.md:86:arxiv
+content/06.AI in the Life Sciences.md:86:arxiv
+content/06.AI in the Life Sciences.md:86:arxiv
+content/06.AI in the Life Sciences.md:86:arxiv
+content/06.AI in the Life Sciences.md:86:arxiv
+content/06.AI in the Life Sciences.md:86:arxiv
+content/06.AI in the Life Sciences.md:86:GPT
+content/06.AI in the Life Sciences.md:86:LM
+content/06.AI in the Life Sciences.md:86:ProGen
+content/06.AI in the Life Sciences.md:88:arxiv
+content/06.AI in the Life Sciences.md:88:arxiv
+content/06.AI in the Life Sciences.md:88:biorxiv
+content/06.AI in the Life Sciences.md:88:LLMs
+content/06.AI in the Life Sciences.md:88:MSA
+content/06.AI in the Life Sciences.md:88:Prot
+content/06.AI in the Life Sciences.md:92:LLMs
+content/06.AI in the Life Sciences.md:92:Prot
+content/06.AI in the Life Sciences.md:94:LLMs
+content/06.AI in the Life Sciences.md:94:LLMs
+content/06.AI in the Life Sciences.md:94:LLMs
+content/06.AI in the Life Sciences.md:94:prot
+content/06.AI in the Life Sciences.md:94:Prot
+content/06.AI in the Life Sciences.md:94:Prot
+content/06.AI in the Life Sciences.md:96:biomolecules
+content/06.AI in the Life Sciences.md:96:Lactamase
+content/06.AI in the Life Sciences.md:96:LLMs
+content/06.AI in the Life Sciences.md:96:LLMs
+content/06.AI in the Life Sciences.md:96:Prot
+content/06.AI in the Life Sciences.md:96:Prot
+content/06.AI in the Life Sciences.md:96:subcellular
+content/06.AI in the Life Sciences.md:98:LLMs
+content/06.AI in the Life Sciences.md:98:Prot
+content/06.AI in the Life Sciences.md:100:Autoregressive
+content/06.AI in the Life Sciences.md:100:novo
+content/06.AI in the Life Sciences.md:100:ProGen
+content/06.AI in the Life Sciences.md:103:LLMs
+content/06.AI in the Life Sciences.md:103:Prot
+content/06.AI in the Life Sciences.md:105:LLMs
+content/06.AI in the Life Sciences.md:105:Prot
+content/06.AI in the Life Sciences.md:109:CASP
+content/06.AI in the Life Sciences.md:109:CASP
+content/06.AI in the Life Sciences.md:110:dataset
+content/06.AI in the Life Sciences.md:112:CATH
+content/06.AI in the Life Sciences.md:112:CATH
+content/06.AI in the Life Sciences.md:112:superfamily
+content/06.AI in the Life Sciences.md:112:superfamily
+content/06.AI in the Life Sciences.md:113:SCOP
+content/06.AI in the Life Sciences.md:113:SCOP
+content/06.AI in the Life Sciences.md:113:SCOP
+content/06.AI in the Life Sciences.md:113:Superfamily
+content/06.AI in the Life Sciences.md:114:datasets
+content/06.AI in the Life Sciences.md:114:ProteinGym
+content/06.AI in the Life Sciences.md:114:ProteinGym
+content/06.AI in the Life Sciences.md:115:embeddings
+content/06.AI in the Life Sciences.md:115:embeddings
+content/06.AI in the Life Sciences.md:115:Embeddings
+content/06.AI in the Life Sciences.md:117:Genomic
+content/06.AI in the Life Sciences.md:117:LLMs
+content/06.AI in the Life Sciences.md:119:genomic
+content/06.AI in the Life Sciences.md:119:genomic
+content/06.AI in the Life Sciences.md:119:genomic
+content/06.AI in the Life Sciences.md:119:genomic
+content/06.AI in the Life Sciences.md:119:LLMs
+content/06.AI in the Life Sciences.md:119:LLMs
+content/06.AI in the Life Sciences.md:119:LLMs
+content/06.AI in the Life Sciences.md:121:arxiv
+content/06.AI in the Life Sciences.md:121:arxiv
+content/06.AI in the Life Sciences.md:121:DNABERT
+content/06.AI in the Life Sciences.md:121:DNABERT
+content/06.AI in the Life Sciences.md:121:ienhancer
+content/06.AI in the Life Sciences.md:121:iEnhancer
+content/06.AI in the Life Sciences.md:121:ncbi
+content/06.AI in the Life Sciences.md:121:SpliceBERT
+content/06.AI in the Life Sciences.md:123:biorxiv
+content/06.AI in the Life Sciences.md:123:biorxiv
+content/06.AI in the Life Sciences.md:123:biorxiv
+content/06.AI in the Life Sciences.md:123:BioSeq
+content/06.AI in the Life Sciences.md:123:BLM
+content/06.AI in the Life Sciences.md:123:Enformer
+content/06.AI in the Life Sciences.md:123:epigenomics
+content/06.AI in the Life Sciences.md:123:EpiGePT
+content/06.AI in the Life Sciences.md:123:LM
+content/06.AI in the Life Sciences.md:123:MoDNA
+content/06.AI in the Life Sciences.md:123:ncbi
+content/06.AI in the Life Sciences.md:123:ncbi
+content/06.AI in the Life Sciences.md:123:ncbi
+content/06.AI in the Life Sciences.md:123:phenotypes
+content/06.AI in the Life Sciences.md:123:pre
+content/06.AI in the Life Sciences.md:123:pre
+content/06.AI in the Life Sciences.md:125:arxiv
+content/06.AI in the Life Sciences.md:125:biorxiv
+content/06.AI in the Life Sciences.md:125:biorxiv
+content/06.AI in the Life Sciences.md:125:DNAGPT
+content/06.AI in the Life Sciences.md:125:genomic
+content/06.AI in the Life Sciences.md:125:GenSLMs
+content/06.AI in the Life Sciences.md:125:HyenaDNA
+content/06.AI in the Life Sciences.md:127:arxiv
+content/06.AI in the Life Sciences.md:127:bioinformatics
+content/06.AI in the Life Sciences.md:127:ENBED
+content/06.AI in the Life Sciences.md:127:genomic
+content/06.AI in the Life Sciences.md:131:LLMs
+content/06.AI in the Life Sciences.md:133:DNABERT
+content/06.AI in the Life Sciences.md:133:EpiGePT
+content/06.AI in the Life Sciences.md:133:genomic
+content/06.AI in the Life Sciences.md:133:LLMs
+content/06.AI in the Life Sciences.md:133:ncbi
+content/06.AI in the Life Sciences.md:133:ncbi
+content/06.AI in the Life Sciences.md:133:pre
+content/06.AI in the Life Sciences.md:133:subtasks
+content/06.AI in the Life Sciences.md:135:arxiv
+content/06.AI in the Life Sciences.md:135:HyenaDNA
+content/06.AI in the Life Sciences.md:135:nanostructures
+content/06.AI in the Life Sciences.md:135:ncbi
+content/06.AI in the Life Sciences.md:135:Subtasks
+content/06.AI in the Life Sciences.md:135:TFBert
+content/06.AI in the Life Sciences.md:137:bioinformatics
+content/06.AI in the Life Sciences.md:137:biorxiv
+content/06.AI in the Life Sciences.md:137:DNAGPT
+content/06.AI in the Life Sciences.md:137:genomic
+content/06.AI in the Life Sciences.md:137:ncbi
+content/06.AI in the Life Sciences.md:137:ncbi
+content/06.AI in the Life Sciences.md:137:polymorphisms
+content/06.AI in the Life Sciences.md:137:SNPs
+content/06.AI in the Life Sciences.md:139:biorxiv
+content/06.AI in the Life Sciences.md:139:GenSLMs
+content/06.AI in the Life Sciences.md:139:GPN
+content/06.AI in the Life Sciences.md:139:MSA
+content/06.AI in the Life Sciences.md:139:ncbi
+content/06.AI in the Life Sciences.md:141:LLMs
+content/06.AI in the Life Sciences.md:143:LLMs
+content/06.AI in the Life Sciences.md:147:CAGI
+content/06.AI in the Life Sciences.md:147:genomic
+content/06.AI in the Life Sciences.md:148:datasets
+content/06.AI in the Life Sciences.md:148:RBP
+content/06.AI in the Life Sciences.md:148:RBPs
+content/06.AI in the Life Sciences.md:148:vivo
+content/06.AI in the Life Sciences.md:149:DNABERT
+content/06.AI in the Life Sciences.md:149:Enformer
+content/06.AI in the Life Sciences.md:149:HyenaDNA
+content/06.AI in the Life Sciences.md:151:LLMs
+content/06.AI in the Life Sciences.md:151:Multimodal
+content/06.AI in the Life Sciences.md:153:genomic
+content/06.AI in the Life Sciences.md:153:LLMs
+content/06.AI in the Life Sciences.md:153:LLMs
+content/06.AI in the Life Sciences.md:153:LLMs
+content/06.AI in the Life Sciences.md:153:Multimodal
+content/06.AI in the Life Sciences.md:155:LLMs
+content/06.AI in the Life Sciences.md:157:LLMs
+content/06.AI in the Life Sciences.md:161:ChatMol
+content/06.AI in the Life Sciences.md:161:DrugChat
+content/06.AI in the Life Sciences.md:161:GPT
+content/06.AI in the Life Sciences.md:161:KV
+content/06.AI in the Life Sciences.md:161:Mol
+content/06.AI in the Life Sciences.md:161:MolFM
+content/06.AI in the Life Sciences.md:161:MolReGPT
+content/06.AI in the Life Sciences.md:161:MoMu
+content/06.AI in the Life Sciences.md:161:multimodal
+content/06.AI in the Life Sciences.md:161:PLM
+content/06.AI in the Life Sciences.md:162:ESM
+content/06.AI in the Life Sciences.md:162:ESM
+content/06.AI in the Life Sciences.md:162:InstructionProtein
+content/06.AI in the Life Sciences.md:162:multimodal
+content/06.AI in the Life Sciences.md:162:ProtBert
+content/06.AI in the Life Sciences.md:162:ProteinDT
+content/06.AI in the Life Sciences.md:162:ProTranslator
+content/06.AI in the Life Sciences.md:162:ProtST
+content/06.AI in the Life Sciences.md:162:ProtST
+content/06.AI in the Life Sciences.md:162:ProtST
+content/06.AI in the Life Sciences.md:163:ChemBERTaLM
+content/06.AI in the Life Sciences.md:163:contrastive
+content/06.AI in the Life Sciences.md:163:DeepTarget
+content/06.AI in the Life Sciences.md:163:DrugCLIP
+content/06.AI in the Life Sciences.md:163:DrugGPT
+content/06.AI in the Life Sciences.md:164:BioMedGPT
+content/06.AI in the Life Sciences.md:164:BioTranslator
+content/06.AI in the Life Sciences.md:164:ChatDrug
+content/06.AI in the Life Sciences.md:164:Galactica
+content/06.AI in the Life Sciences.md:164:MDP
+content/06.AI in the Life Sciences.md:164:Mol
+content/06.AI in the Life Sciences.md:164:multimodal
+content/06.AI in the Life Sciences.md:168:LLMs
+content/06.AI in the Life Sciences.md:170:arxiv
+content/06.AI in the Life Sciences.md:170:arxiv
+content/06.AI in the Life Sciences.md:170:bioinformatics
+content/06.AI in the Life Sciences.md:170:Mol
+content/06.AI in the Life Sciences.md:170:MoleculeSTM
+content/06.AI in the Life Sciences.md:170:multimodal
+content/06.AI in the Life Sciences.md:172:arxiv
+content/06.AI in the Life Sciences.md:172:ESM
+content/06.AI in the Life Sciences.md:172:KV
+content/06.AI in the Life Sciences.md:172:ncbi
+content/06.AI in the Life Sciences.md:172:PLM
+content/06.AI in the Life Sciences.md:172:ProtST
+content/06.AI in the Life Sciences.md:174:arxiv
+content/06.AI in the Life Sciences.md:174:arxiv
+content/06.AI in the Life Sciences.md:174:ChemBERTaLM
+content/06.AI in the Life Sciences.md:174:ncbi
+content/06.AI in the Life Sciences.md:174:ProteinDT
+content/06.AI in the Life Sciences.md:176:LLMs
+content/06.AI in the Life Sciences.md:178:LLMs
+content/06.AI in the Life Sciences.md:182:datasets
+content/06.AI in the Life Sciences.md:182:featurization
+content/06.AI in the Life Sciences.md:182:MoleculeNet
+content/06.AI in the Life Sciences.md:182:MoleculeNet
+content/06.AI in the Life Sciences.md:184:GuacaMol
+content/06.AI in the Life Sciences.md:184:GuacaMol
+content/06.AI in the Life Sciences.md:184:novo
+content/06.AI in the Life Sciences.md:188:LLMs
+content/06.AI in the Life Sciences.md:188:LLMs
+content/06.AI in the Life Sciences.md:188:Mol
+content/06.AI in the Life Sciences.md:190:LLMs
+content/06.AI in the Life Sciences.md:190:Mol
+content/06.AI in the Life Sciences.md:190:Pre
+content/06.AI in the Life Sciences.md:192:GPT
+content/06.AI in the Life Sciences.md:192:LLMs
+content/06.AI in the Life Sciences.md:192:Mol
+content/06.AI in the Life Sciences.md:192:MolGPT
+content/06.AI in the Life Sciences.md:192:MolGPT
+content/06.AI in the Life Sciences.md:192:SMILESGPT
+content/06.AI in the Life Sciences.md:194:LLMs
+content/06.AI in the Life Sciences.md:194:Mol
+content/06.AI in the Life Sciences.md:198:GNNs
+content/06.AI in the Life Sciences.md:198:GNNs
+content/06.AI in the Life Sciences.md:198:miRNA
+content/06.AI in the Life Sciences.md:198:novo
+content/06.AI in the Life Sciences.md:198:omics
+content/06.AI in the Life Sciences.md:198:omics
+content/06.AI in the Life Sciences.md:198:proteomics
+content/06.AI in the Life Sciences.md:198:radiomics
+content/06.AI in the Life Sciences.md:198:RNAs
+content/06.AI in the Life Sciences.md:198:RNomics
+content/06.AI in the Life Sciences.md:200:BDTs
+content/06.AI in the Life Sciences.md:202:BDTs
+content/06.AI in the Life Sciences.md:202:mutagenesis
+content/06.AI in the Life Sciences.md:202:PCR
+content/06.AI in the Life Sciences.md:202:SDM
+content/06.AI in the Life Sciences.md:202:SDM
+content/06.AI in the Life Sciences.md:202:SDM
+content/06.AI in the Life Sciences.md:204:backpropagation
+content/06.AI in the Life Sciences.md:204:mutagenesis
+content/06.AI in the Life Sciences.md:204:mutagenesis
+content/06.AI in the Life Sciences.md:204:mutagenesis
+content/06.AI in the Life Sciences.md:204:mutagenesis
+content/06.AI in the Life Sciences.md:204:mutagenesis
+content/06.AI in the Life Sciences.md:204:phenotypes
+content/06.AI in the Life Sciences.md:204:phenotypic
+content/06.AI in the Life Sciences.md:204:SDM
+content/06.AI in the Life Sciences.md:206:iteratively
+content/06.AI in the Life Sciences.md:208:arxiv
+content/06.AI in the Life Sciences.md:208:arxiv
+content/06.AI in the Life Sciences.md:208:BDTs
+content/06.AI in the Life Sciences.md:208:BDTs
+content/06.AI in the Life Sciences.md:208:BDTs
+content/06.AI in the Life Sciences.md:208:biorxiv
+content/06.AI in the Life Sciences.md:208:LLMs
+content/06.AI in the Life Sciences.md:208:MPNN
+content/06.AI in the Life Sciences.md:208:ncbi
+content/06.AI in the Life Sciences.md:208:Prot
+content/06.AI in the Life Sciences.md:208:RFDiffusion
+content/06.AI in the Life Sciences.md:210:BDTs
+content/06.AI in the Life Sciences.md:210:BDTs
+content/06.AI in the Life Sciences.md:210:BDTs
+content/06.AI in the Life Sciences.md:210:BDTs
+content/06.AI in the Life Sciences.md:210:BDTs
+content/06.AI in the Life Sciences.md:210:LLMs
+content/06.AI in the Life Sciences.md:210:LLMs
+content/06.AI in the Life Sciences.md:210:LLMs
+content/06.AI in the Life Sciences.md:212:BDTs
+content/06.AI in the Life Sciences.md:212:ncbi
+content/06.AI in the Life Sciences.md:214:AlphaFold
+content/06.AI in the Life Sciences.md:214:AlphaFold
+content/06.AI in the Life Sciences.md:214:AlphaFold
+content/06.AI in the Life Sciences.md:214:AlphaFold
+content/06.AI in the Life Sciences.md:214:Multimer
+content/06.AI in the Life Sciences.md:214:ncbi
+content/06.AI in the Life Sciences.md:214:ncbi
+content/06.AI in the Life Sciences.md:214:RoseTTAFold
+content/06.AI in the Life Sciences.md:214:RoseTTAFold
+content/06.AI in the Life Sciences.md:214:RoseTTAFold
+content/06.AI in the Life Sciences.md:214:RoseTTAFold
+content/06.AI in the Life Sciences.md:216:AlphaFold
+content/06.AI in the Life Sciences.md:216:AlphaFold's
+content/06.AI in the Life Sciences.md:216:CASP
+content/06.AI in the Life Sciences.md:216:CASP
+content/06.AI in the Life Sciences.md:216:CASP
+content/06.AI in the Life Sciences.md:216:ncbi
+content/06.AI in the Life Sciences.md:216:ncbi
+content/06.AI in the Life Sciences.md:216:PDB
+content/06.AI in the Life Sciences.md:216:RoseTTAFold
+content/06.AI in the Life Sciences.md:218:AlphaFold
+content/06.AI in the Life Sciences.md:218:biorxiv
+content/06.AI in the Life Sciences.md:218:CASP
+content/06.AI in the Life Sciences.md:218:ESMFold
+content/06.AI in the Life Sciences.md:218:MSA
+content/06.AI in the Life Sciences.md:218:MSA
+content/06.AI in the Life Sciences.md:218:ncbi
+content/06.AI in the Life Sciences.md:218:OmegaFold
+content/06.AI in the Life Sciences.md:218:pLM
+content/06.AI in the Life Sciences.md:218:RoseTTAFold
+content/06.AI in the Life Sciences.md:218:SPs
+content/06.AI in the Life Sciences.md:218:SPs
+content/06.AI in the Life Sciences.md:220:AlphaFold
+content/06.AI in the Life Sciences.md:220:AlphaFold
+content/06.AI in the Life Sciences.md:220:AlphaFold
+content/06.AI in the Life Sciences.md:220:AlphaFold
+content/06.AI in the Life Sciences.md:220:DeepMind
+content/06.AI in the Life Sciences.md:222:BDTs
+content/06.AI in the Life Sciences.md:224:BDTs
+content/06.AI in the Life Sciences.md:228:RoseTTAFold
+content/06.AI in the Life Sciences.md:229:pharmacokinetic
+content/06.AI in the Life Sciences.md:230:LinearDesign
+content/06.AI in the Life Sciences.md:230:proteome
+content/06.AI in the Life Sciences.md:230:subunits
+content/06.AI in the Life Sciences.md:230:VSeq
+content/06.AI in the Life Sciences.md:231:capsids
+content/06.AI in the Life Sciences.md:231:VSeq
+content/06.AI in the Life Sciences.md:232:OpenCRISPR
+content/06.AI in the Life Sciences.md:232:ZFDesign
+content/06.AI in the Life Sciences.md:233:DeepConsensus
+content/06.AI in the Life Sciences.md:234:GENESCAPE
+content/06.AI in the Life Sciences.md:234:TOXSCAPE
+content/06.AI in the Life Sciences.md:235:zoonotic
+content/06.AI in the Life Sciences.md:236:deepHPI
+content/06.AI in the Life Sciences.md:236:HPIPred
+content/06.AI in the Life Sciences.md:236:pathogenesis
+content/06.AI in the Life Sciences.md:237:epitope
+content/06.AI in the Life Sciences.md:237:immunotherapy
+content/06.AI in the Life Sciences.md:237:SIMMUNE
+content/06.AI in the Life Sciences.md:238:EDA
+content/06.AI in the Life Sciences.md:239:BioSimulators
+content/06.AI in the Life Sciences.md:239:PhET
+content/06.AI in the Life Sciences.md:239:silico
+content/06.AI in the Life Sciences.md:240:EI
+content/06.AI in the Life Sciences.md:240:reproducibility
+content/07.Risks, Limitations and Future Directions.md:9:datasets
+content/07.Risks, Limitations and Future Directions.md:13:BDTs
+content/07.Risks, Limitations and Future Directions.md:13:BDTs
+content/07.Risks, Limitations and Future Directions.md:13:BDTs
+content/07.Risks, Limitations and Future Directions.md:13:biosecurity
+content/07.Risks, Limitations and Future Directions.md:13:bioweapon
+content/07.Risks, Limitations and Future Directions.md:13:ncbi
+content/07.Risks, Limitations and Future Directions.md:17:ncbi
+content/07.Risks, Limitations and Future Directions.md:17:transformative
+content/07.Risks, Limitations and Future Directions.md:23:arxiv
+content/07.Risks, Limitations and Future Directions.md:23:arxiv
+content/07.Risks, Limitations and Future Directions.md:23:arxiv
+content/07.Risks, Limitations and Future Directions.md:23:centric
+content/07.Risks, Limitations and Future Directions.md:23:LLMs
+content/07.Risks, Limitations and Future Directions.md:23:LLMs
+content/07.Risks, Limitations and Future Directions.md:23:LLMs
+content/07.Risks, Limitations and Future Directions.md:23:ncbi
+content/07.Risks, Limitations and Future Directions.md:25:arxiv
+content/07.Risks, Limitations and Future Directions.md:25:arxiv
+content/07.Risks, Limitations and Future Directions.md:25:LLM
+content/07.Risks, Limitations and Future Directions.md:25:LLM’s
+content/07.Risks, Limitations and Future Directions.md:25:LLMs
+content/07.Risks, Limitations and Future Directions.md:25:ncbi
+content/07.Risks, Limitations and Future Directions.md:29:cybersecurity
+content/07.Risks, Limitations and Future Directions.md:29:LLMs
+content/07.Risks, Limitations and Future Directions.md:33:arxiv
+content/07.Risks, Limitations and Future Directions.md:35:cyber
+content/07.Risks, Limitations and Future Directions.md:35:IoT
+content/07.Risks, Limitations and Future Directions.md:35:MLSecOps
+content/07.Risks, Limitations and Future Directions.md:35:MLSecOps
+content/08.Conclusion.md:7:bioinformatics
+content/08.Conclusion.md:7:COMPROTEIN
+content/08.Conclusion.md:7:morphogenesis
+content/08.Conclusion.md:9:Genomic
+content/08.Conclusion.md:11:bioinformatics
+content/08.Conclusion.md:11:genomic
+content/08.Conclusion.md:11:Haemophilus
+content/08.Conclusion.md:11:influenzae
+content/08.Conclusion.md:11:PCR
+content/08.Conclusion.md:11:polymerase
+content/08.Conclusion.md:15:DENDRAL
+content/08.Conclusion.md:15:genomic
+content/08.Conclusion.md:15:MYCIN
+content/08.Conclusion.md:19:analytics
+content/08.Conclusion.md:19:IoT
+content/08.Conclusion.md:19:IoT
+content/09.Glossary.md:5:AlphaFold
+content/09.Glossary.md:5:DeepMind
+content/09.Glossary.md:7:Autoencoders
+content/09.Glossary.md:7:codings
+content/09.Glossary.md:9:Bioinformatics
+content/09.Glossary.md:13:CRISPR
+content/09.Glossary.md:17:nucleotides
+content/09.Glossary.md:21:NLP
+content/09.Glossary.md:27:GANs
+content/09.Glossary.md:31:phylogenetic
+content/09.Glossary.md:33:Metagenomics
+content/09.Glossary.md:35:MSA
+content/09.Glossary.md:37:NLP
+content/09.Glossary.md:39:Needleman
+content/09.Glossary.md:39:Wunsch
+content/09.Glossary.md:43:NGS
+content/09.Glossary.md:45:PCR
+content/09.Glossary.md:45:Polymerase
+content/09.Glossary.md:47:Phylogenetics
+content/09.Glossary.md:49:Proteomics
+content/09.Glossary.md:53:reductionism
+content/09.Glossary.md:55:Transcriptomics
+content/09.Glossary.md:57:pre
 content/10.policy.md:6:bioweapons
 content/10.policy.md:17:biosecurity
 content/10.policy.md:24:bioweapons
