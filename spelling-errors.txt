@@ -29,7 +29,6 @@ BioSimulators
 BioT
 BioTranslator
 bioweapon
-bioweapons
 BLM
 Bloomberg
 BOINC
@@ -79,7 +78,7 @@ DrugGPT
 EDA
 Edman
 EI
-Embeddings
+embeddings
 EMBL
 ENBED
 endonucleases
@@ -104,7 +103,7 @@ GenBank
 generalizability
 GENESCAPE
 genitalium
-Genomic
+genomic
 GenSLMs
 glycomics
 GNNs
@@ -208,7 +207,7 @@ ProteinGym
 ProteinNPT
 proteome
 proteomes
-proteomics
+Proteomics
 ProTranslator
 ProtST
 PubMedQA
@@ -246,7 +245,7 @@ subcellular
 Subtasks
 subunits
 summarization
-Supercomputing
+supercomputing
 Superfamily
 Tandy
 Taq
@@ -259,7 +258,7 @@ TRS
 TruthfulQA
 VAEs
 Variational
-Vivo
+vivo
 VSeq
 Wunsch
 ZFDesign

@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-15" />
   <meta name="citation_publication_date" content="2024-06-15" />
   <meta property="article:published_time" content="2024-06-15" />
-  <meta name="dc.modified" content="2024-06-15T14:57:38+00:00" />
-  <meta property="article:modified_time" content="2024-06-15T14:57:38+00:00" />
+  <meta name="dc.modified" content="2024-06-15T20:07:22+00:00" />
+  <meta property="article:modified_time" content="2024-06-15T20:07:22+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/fa166786239d518f4b9cace156c31856bf687274/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/fa166786239d518f4b9cace156c31856bf687274/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/fa166786239d518f4b9cace156c31856bf687274/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/110a61af127168c0e271a5a6e089d279e6cf770f/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/110a61af127168c0e271a5a6e089d279e6cf770f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/110a61af127168c0e271a5a6e089d279e6cf770f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/fa166786239d518f4b9cace156c31856bf687274/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/110a61af127168c0e271a5a6e089d279e6cf770f/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@fa16678](https://github.com/In-Vivo-Group/generative-biology/tree/fa166786239d518f4b9cace156c31856bf687274)
+from [In-Vivo-Group/generative-biology@110a61a](https://github.com/In-Vivo-Group/generative-biology/tree/110a61af127168c0e271a5a6e089d279e6cf770f)
 on June 15, 2024.
 </em></small>
 
@@ -130,12 +130,10 @@ Alexander J. Titus \<publications@theinvivogroup.com\>.
 
 ## Abstract 
 
-Computing in the life sciences has undergone a transformative evolution, from early computational models in the 1950s to the applications of artificial intelligence (AI) and machine learning (ML) seen today. This paper highlights key milestones and technological advancements  through the historical development of computing in the life sciences.. The discussion includes the inception of computational models for biological processes, the advent of bioinformatics tools, and the integration of AI/ML in modern life sciences research. Attention is given to AI-enabled tools used in the life sciences, such as scientific large language models (Sci-LLMs) and bio-AI tools, examining their capabilities, limitations, and  impact to biological risk. This paper seeks to clarify and establish essential terminology and concepts to ensure informed decision-making and effective communication across disciplines.
+Computing in the life sciences has undergone a transformative evolution, from early computational models in the 1950s to the applications of artificial intelligence (AI) and machine learning (ML) seen today. This paper highlights key milestones and technological advancements  through the historical development of computing in the life sciences. The discussion includes the inception of computational models for biological processes, the advent of bioinformatics tools, and the integration of AI/ML in modern life sciences research. Attention is given to AI-enabled tools used in the life sciences, such as scientific large language models and bio-AI tools, examining their capabilities, limitations, and  impact to biological risk. This paper seeks to clarify and establish essential terminology and concepts to ensure informed decision-making and effective communication across disciplines.
 
+*The views and opinions expressed within this manuscript are those of the authors and do not necessarily reflect the views and opinions of any organization the authors are affiliated with.*
 
-# Executive Summary {.page_break_before}
-
-The goal with be a 2 page TL;DR of the review after v1 is complete. Need more content.
 
 
 # Introduction
@@ -153,7 +151,7 @@ This paper provides an overview of historical context, current applications, and
 
 ## 1950s and 1960s: Early computers and algorithms
 
-Computers were used in the early 1950s for population genetics calculations [@url:https://pubmed.ncbi.nlm.nih.gov/4859964]. Notably, the inception of computational modeling in biology dates to the origins of computer science itself. British mathematician and logician Alan Turing, often referred to as “the father of computing”, used primitive computers to implement a model of biological morphogenesis (the emergence of pattern and shape in living organisms) in 1952 [@url:https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012]. At about the same time, a computer called MANIAC was used for measuring speculative genetic codes; it  was originally built for weaponry research at the Los Alamos National Laboratory in New Mexico [@url:https://link.springer.com/article/10.1007/BF02628301].
+Computers were used in the early 1950s for population genetics calculations [@url:https://pubmed.ncbi.nlm.nih.gov/4859964]. The inception of computational modeling in biology coincides with the origins of computer science itself. British mathematician and logician Alan Turing, often referred to as “the father of computing”, used primitive computers to implement a model of biological morphogenesis (the emergence of pattern and shape in living organisms) in 1952 [@url:https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012]. At about the same time, a computer called MANIAC was used for measuring speculative genetic codes; it  was originally built for weaponry research at the Los Alamos National Laboratory in New Mexico [@url:https://link.springer.com/article/10.1007/BF02628301].
 
 Computers were used for the study of protein structure by the 1960s, and other increasingly diverse analyses. These developments marked the rise of the computational biology field, stemming from research focused on protein crystallography, in which scientists found computers indispensable for carrying out laborious Fourier analyses to determine the three-dimensional structure of proteins [@url:https://pubmed.ncbi.nlm.nih.gov/13517261; @url:https://pubmed.ncbi.nlm.nih.gov/18990802].
 
@@ -191,7 +189,7 @@ The experimental determination of the first three-dimensional structure of a pro
 
 Graphical processing Units (GPUs) have made molecular dynamics more accessible [@url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673555], with applications extending to other bioinformatics fields requiring intensive computation. However, the internet's role in data dissemination, coupled with increasing computational power, has led to the proliferation of 'Big Data' in bioinformatics.
 
-## 2000-2010: High-throughput sequencing and big data
+## 2000s: High-throughput sequencing and big data
 
 Second-generation sequencing technologies democratized high-throughput bioinformatics. For example '454' pyrosequencing, a high-throughput DNA sequencing technique played a significant role in advancing genomics research by enabling rapid and cost-effective sequencing of DNA samples, particularly for applications such as whole-genome sequencing [@url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7122948], but computational challenges arose with increased data volumes. Decreasing sequencing costs resulted in more data being generated, emphasizing data organization and accessibility. Specialized repositories and standardization efforts were needed to ensure data interoperability. High-performance computing adaptation became vital to address the increased amounts of data within bioinformatics projects. The surge in bioinformatics projects, accompanied by a vast influx of data, prompted adjustments from funding bodies to accommodate the demand for high-performance computing resources and collaborative initiatives. 
 
@@ -212,9 +210,9 @@ While basic computer setups suffice for some projects, others demand complex inf
 | **National Supercomputing Centre Singapore** | Provides high-performance computing resources and support services, offers data storage, cloud computing, and software development services, and supports research in fields including bioinformatics, environmental modeling, and smart cities. |
 
 
-Community computing platforms democratized participation and expanded bioinformatics research's reach. Platforms like BOINC [@url:https://link.springer.com/article/10.1007/s10723-019-09497-9] enabled broad participation in bioinformatics. Experts can submit computing tasks to BOINC, while non-experts and science enthusiasts can volunteer their computer resources to process these tasks. Several life sciences projects are available through BOINC, including protein-ligand docking, malaria simulations, and protein folding [@url:https://link.springer.com/article/10.1007/s10723-019-09497-9].
+Community computing platforms democratized participation and expanded bioinformatics research's reach. Platforms like BOINC enabled broad participation in bioinformatics. Experts can submit computing tasks to BOINC, while non-experts and science enthusiasts can volunteer their computer resources to process these tasks. Several life sciences projects are available through BOINC, including protein-ligand docking, malaria simulations, and protein folding [@url:https://link.springer.com/article/10.1007/s10723-019-09497-9].
 
-## 2010-Today: The present and future
+## 2010+: The present and future
 
 The integration of computers into biology has ushered in a new era of research possibilities, allowing for increasingly complex studies. While before, the focus was on individual genes or proteins, advancements today enable the analysis of entire genomes or proteomes [@url:https://pubmed.ncbi.nlm.nih.gov/18761469]. This shift toward a holistic approach in biology is evident in disciplines like genomics, proteomics, and glycomics, which have limited interconnection between them.
 
@@ -319,7 +317,7 @@ Additionally, training and using general-purpose language models can be computat
 ### Table 2. Common Benchmarks for LLMs
 
 | Benchmark            | Description                                                                                          | Format of Task                                                            |
-|----------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+|---------------------|---------------------|---------------------|
 | MMLU                 | MMLU (Massive Multitask Language Understanding) evaluates how well the LLM can multitask             | Multiple-choice                                                          |
 | TruthfulQA           | Measures truthfulness of model responses                                                             | Generation, Multiple-choice                                               |
 | HellaSwag            | Evaluates how well an LLM can complete a sentence                                                    | Sentence completion                                                       |
@@ -349,7 +347,7 @@ The evaluation of LLMs often uses Bloom’s taxonomy [@url:https://www.scirp.org
 ### Table 3. Bloom’s Taxonomy
 
 | Cognitive Level | Description                                                | Examples of Activities/Tasks                                      |
-|-----------------|------------------------------------------------------------|-------------------------------------------------------------------|
+|---------------------|---------------------|---------------------|
 | Remember        | Recall facts and basic concepts                            | List, define, identify, memorize, repeat, state                   |
 | Understand      | Explain ideas or concepts                                  | Describe, explain, interpret, summarize, paraphrase, discuss      |
 | Apply           | Use information or existing knowledge in new contexts      | Use, demonstrate, solve, implement, execute, carry out            |
@@ -362,7 +360,7 @@ SciEval [@urlhttps://arxiv.org/abs/2308.13149] has recently introduced a framewo
 ### Table 4. Categories for KnowEval
 
 | Category           | Description                                                                                                                                                                                                                               |
-|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------|---------------------|
 | Pre-college Level  | This level covers fundamental concepts and principles, aligning with the Remember and Understand stages of Bloom’s taxonomy and the basic knowledge dimension of SciEval. Evaluations focus on basic knowledge comprehension, using benchmarks like MMLU [@url:https://arxiv.org/abs/2009.03300] and C-Eval [@url:https://arxiv.org/abs/2305.08322]          |
 | College Level      | At this level, knowledge becomes more specialized and abstract, requiring logical reasoning and proof. It corresponds to the Apply and Analyze stages of Bloom’s taxonomy and the knowledge application and scientific calculation dimensions of SciEval. Evaluations like PubMedQA [@url:https://arxiv.org/abs/1909.06146] and SciQ [@url:https://arxiv.org/abs/1707.06209] focus on this advanced understanding. |
 | Post-college Level | This level involves mastering current knowledge and generating innovative ideas, aligning with the Evaluate and Create stages of Bloom’s taxonomy and the research ability dimension of SciEval. It requires capabilities beyond standard question-answering, including summarizing advancements and designing novel experiments. Few benchmarks, such as a subset in the SciEval dataset [@url:https://arxiv.org/abs/2308.13149], assess these high-level capabilities.            |
@@ -372,7 +370,7 @@ SciEval [@urlhttps://arxiv.org/abs/2308.13149] has recently introduced a framewo
 ### Table 5. Summary of Benchmarks for Text-Sci-LLMs
 
 | Benchmark          | Description                                                                                                                                                                                                                  | Type                           |
-|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+|---------------------|---------------------|---------------------|
 | MMLU               | Offers a detailed and challenging benchmark that tests the comprehension and problem-solving capabilities of LLMs across a wide spectrum of tasks and subjects.                                                               | Multiple choice                |
 | C-Eval             | Consists of 13,948 multi-choice questions spanning 52 diverse disciplines and four difficulty levels.                                                                                                                         | Multiple choice                |
 | AGIEval            | Evaluates the general abilities of foundation models in tasks pertinent to human cognition and problem-solving.                                                                                                               | Multiple choice                |
@@ -413,7 +411,7 @@ Prot-LLMs are evaluated in three key areas: protein structure prediction, protei
 ### Table 6. Summary of Benchmarks for Prot-LLMs
 
 | Benchmark  | Description                                                                                                                                                                                                                                                                             |
-|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------|---------------------|
 | CASP       | CASP (Critical Assessment of Structure Prediction) evaluates different methods and algorithms for protein structure prediction, providing a standard assessment for progress in the field.                                                                                                 |
 | EC         | EC (Enzyme Commission) dataset is used to classify enzymes based on the chemical reactions they catalyze. This system is used to evaluate the functional prediction of proteins, specifically enzymes.                                                                                    |
 | GO         | GO (Gene Ontology) provides a framework for the representation of gene and gene product attributes across species. GO terms are used to annotate proteins with their associated biological processes, cellular components, and molecular functions.                                     |
@@ -451,7 +449,7 @@ Gene-LLMs undergo evaluation across four key domains: function prediction, struc
 ### Table 7. Summary of Benchmarks for Gene-LLMs
 
 | Benchmark                                      | Description                                                                                                                                                                                                                                                                               |
-|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------|---------------------|
 | CAGI5 Challenge Benchmark                      | The Critical Assessment of Genome Interpretation (CAGI) is a benchmark designed to rigorously assess computational methods in predicting a wide array of genetic and genomic outcomes.                                                                                                      |
 | Protein-RNA Interaction Prediction Benchmark (Protein-RNA) | A set of 37 machine learning (primarily deep learning) methods for in vivo RNA-binding proteins RBP–RNA interaction prediction. This benchmark systematically evaluates a subset of 11 representative methods across hundreds of CLIP-seq datasets and RBPs. |
 | Nucleotide Transformer Benchmark (NT-Bench)    | A comprehensive evaluation framework designed to assess the performance of genomics foundational models. This benchmark pits the Nucleotide Transformer models against other prominent genomics models, such as DNABERT, HyenaDNA (with both 1kb and 32kb context lengths), and Enformer.  |
@@ -465,7 +463,7 @@ Categorized into four distinct groups based on the specific modality they focus 
 ### Table 8. Summary of MM-Sci-LLMs
 
 | Category | Description | Encoder-only models | Encoder-Decoder models | Decoder-only models |
-|---|---|---|---|---|
+|---------------------|---------------------|---------------------|---------------------|---------------------|
 | Molecule-to-text | Leverage various techniques like multimodal embedding and cross-modal learning to associate chemical structures with textual descriptions, enhancing tasks such as cross-modal retrieval and molecular property prediction. | Text2Mol, KV-PLM, MoMu | DrugChat, MolReGPT, Text+Chem, ChatMol, GIT-Mol | MoIET5, MolFM, GPT-MoI |
 | Protein-to-text models | Utilize textual data for protein function prediction and multimodal representation learning, enriching protein annotation and design by integrating natural language descriptions with protein data. | ProTranslator, ProtST-ProtBert | InstructionProtein | ProteinDT, Prot2Text,  ProtST-ESM-1B, ProtST-ESM-2 |
 | Protein-to-molecule models  | Focus on linking protein sequences with molecular information, improving drug discovery through techniques like adversarial networks and contrastive learning. | DrugCLIP | DrugGPT | ChemBERTaLM, DeepTarget |
@@ -486,7 +484,7 @@ MM-Sci-LLMs undergo evaluation focusing on three pivotal areas: cross-modal pred
 ### Table 9. Summary of Benchmarks for MM-Sci-LLMs
 
 | Benchmark  | Description                                                                                                                                                                                                                                                               |
-|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------|---------------------|
 | MoleculeNet | MoleculeNet is a large-scale benchmark for molecular machine learning. It curates multiple public datasets, establishes metrics for evaluation, and offers high-quality open-source implementations of multiple previously proposed molecular featurization and learning algorithms. |
 | MARCEL     | MARCEL (MoleculAR Conformer Ensemble Learning) provides a comprehensive platform for evaluating learning from molecular conformer ensembles. It focuses on diverse molecular conformer structures, marking a significant shift in molecular representation learning.               |
 | GuacaMol   | GuacaMol is an evaluation framework designed for de novo molecular design. It aims to generate molecules with specific property profiles through virtual design-make-test cycles.                                                                                          |
@@ -532,7 +530,7 @@ Other subcategories of BDTs include:
 ### Table 10. Other subcategories of BDTs
 
 | Category                               | Description                                                                                                                                                                                                                                                                             | Examples                                            |
-|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+|---------------------|---------------------|---------------------|
 | Protein sequence design tools          | Also known as 'inverse folding tools,' predict the sequence of a protein with a user-specified structure and/or functional property, such as binding to a target. These tools play a crucial role in designing proteins tailored to specific requirements.                                      | Rosetta, RoseTTAFold, RF Diffusion                   |
 | Small molecule design tools            | Designed to predict molecular structures with specific profiles, such as generating drugs that provoke desired biological responses while maintaining acceptable pharmacokinetic properties. These tools are essential in drug discovery and development processes.                          | REINVENT 4, Chemistry42                             |
 | Vaccine design tools                   | Pivotal in predicting protective antigens or vaccine subunits from the protein or proteome of target pathogens. By identifying vaccine candidates, these tools contribute significantly to the development of effective vaccines against infectious diseases.                                     | LinearDesign, VSeq-Toolkit                          |
@@ -679,51 +677,6 @@ Altogether, the integration of computing in the life sciences has not only accel
 - **Transcriptomics:** The study of the complete set of RNA transcripts produced by the genome.
 
 - **Unsupervised Learning:** A type of machine learning that looks for previously undetected patterns in a data set with no pre-existing labels.
-
-
-# Policy Responses to Generative AI in Biology
-
-## Introduction
-
-- Background on rise of powerful generative models for biology
-- Overview of risks like bioweapons, environmental damage
-- Need for governance to ensure responsible development
-
-## Self-Governance by Developers
-
-- Voluntary guidelines on ethical AI by corporations  
-- Limiting access to certain capabilities like human editing
-- Issues with self-regulation and transparency 
-
-## Governmental Regulations 
-
-- New biosecurity regulations on certain AI technologies
-- Restrictions on use of synthetic biology IP
-- Challenges with fast pace of technology change
-
-## International Governance
-
-- Proposals for global observatory to monitor risks
-- Treaties restricting development of bioweapons  
-- Difficulty achieving consensus and compliance
-
-## Public Deliberation and Ethics
-
-- Activities to involve broader stakeholders 
-- Gathering public attitudes on acceptable uses of generative bio AI
-- Informing policy with deliberative democracy   
-
-## Outlook
-
-- Likely increase in debate and policy activity in this space
-- Balancing innovation and security will be a key challenge
-- Importance of thoughtful multidisciplinary discourse
-
-## Conclusion
-
-- No easy policy solutions, but inaction also carries risks
-- Policy should enable innovation but promote responsible use
-- This will require sustained public deliberation and coordination
 
 
 ## References {.page_break_before}
