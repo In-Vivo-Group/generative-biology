@@ -18,5 +18,22 @@
       "family": "Himmelstein"
     }
   ]
+},
+  {
+  "type": "article",
+  "source": "Manual",
+  "title": "Risk, Alignment, & Guarding Against Doomsday Scenarios",
+  "authors": [
+    {
+      "family": "Titus",
+      "given": "Alexander"
+    }
+  ],
+  "year": "2023",
+  "journal": {
+    "name": "U.S. Senate AI Insight Forum"
+  },
+  "doi": "",
+  "url": "https://www.schumer.senate.gov/imo/media/doc/Alexander%20Titus%20-%20Statement.pdf"
 }
 ]
