@@ -10,7 +10,7 @@ ANNs
 antimicrobials
 arXiv
 Asilomar
-autoencoders
+Autoencoders
 Autoregressive
 backpropagation
 BDTs
@@ -18,7 +18,7 @@ Berners
 Bing
 BioGPT
 Bioinfo
-bioinformatics
+Bioinformatics
 BioMedGPT
 biomolecular
 biomolecules
@@ -103,7 +103,7 @@ GenBank
 generalizability
 GENESCAPE
 genitalium
-Genomic
+genomic
 GenSLMs
 glycomics
 GNNs
@@ -195,12 +195,12 @@ PLM
 PMLM
 Polymerase
 polymorphisms
-pre
+Pre
 preprint
 pretrained
 ProGen
 ProstT
-Prot
+prot
 ProtBert
 ProteinDT
 ProteinGym
@@ -246,7 +246,7 @@ Subtasks
 subunits
 summarization
 Supercomputing
-superfamily
+Superfamily
 Tandy
 Taq
 TFBert
@@ -257,7 +257,7 @@ TRS
 TruthfulQA
 VAEs
 Variational
-Vivo
+vivo
 VSeq
 Wunsch
 ZFDesign

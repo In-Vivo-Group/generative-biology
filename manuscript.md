@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-17" />
   <meta name="citation_publication_date" content="2024-06-17" />
   <meta property="article:published_time" content="2024-06-17" />
-  <meta name="dc.modified" content="2024-06-17T01:10:16+00:00" />
-  <meta property="article:modified_time" content="2024-06-17T01:10:16+00:00" />
+  <meta name="dc.modified" content="2024-06-17T20:16:17+00:00" />
+  <meta property="article:modified_time" content="2024-06-17T20:16:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/021cd5e53f6a9ffef8a37eeb39a220de800d4af8/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/021cd5e53f6a9ffef8a37eeb39a220de800d4af8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/021cd5e53f6a9ffef8a37eeb39a220de800d4af8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/547185cfba825c6b99b338965d734f5bc3cbd2b6/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/547185cfba825c6b99b338965d734f5bc3cbd2b6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/547185cfba825c6b99b338965d734f5bc3cbd2b6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/021cd5e53f6a9ffef8a37eeb39a220de800d4af8/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/547185cfba825c6b99b338965d734f5bc3cbd2b6/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@021cd5e](https://github.com/In-Vivo-Group/generative-biology/tree/021cd5e53f6a9ffef8a37eeb39a220de800d4af8)
+from [In-Vivo-Group/generative-biology@547185c](https://github.com/In-Vivo-Group/generative-biology/tree/547185cfba825c6b99b338965d734f5bc3cbd2b6)
 on June 17, 2024.
 </em></small>
 
@@ -305,7 +305,7 @@ LLMs serve various purposes:
 
 # AI in the Life Sciences
 
-The intersection of AI and the life sciences (AIxBio) has given rise to new capabilities where advanced computational techniques are applied to understand the complexities of biological systems and engineer novel solutions to pressing challenges in medicine and biotechnology [@url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5819974]. The two primary modern AI categories used in the life sciences are large language models (LLMs) and bio-AI tools.
+The intersection of AI and the life sciences (AIxBio) has given rise to new capabilities where advanced computational techniques are applied to understand the complexities of biological systems and engineer novel solutions to pressing challenges in medicine and biotechnology [@url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5819974]. The two primary modern AI categories used in the life sciences are large language models (LLMs) and bio-AI tools.
 
 LLM-based chatbots like ChatGPT are designed to process human language inputs and generate output in human-like fashion. In the life sciences, ChatGPT can assist researchers by drafting and editing scientific manuscripts, generating hypotheses, summarizing datasets, and retrieving information from the scientific literature. LLM-based chatbots can also streamline literature reviews and facilitate the comprehension of complex biological concepts.
 
@@ -341,7 +341,7 @@ GPT and its variants [@url:https://arxiv.org/abs/2005.14165; @url:https://www.se
 
 ### Capabilities Evaluation
 
-The evaluation of LLMs often uses Bloom’s taxonomy [@url:https://www.scirp.org/reference/referencespapers?referenceid=2799954; @url:https://www.researchgate.net/publication/242400296_A_Revision_of_Bloom's_Taxonomy_An_Overview], which includes six cognitive levels: 
+The evaluation of LLMs often uses Bloom’s taxonomy [@url:https://www.scirp.org/reference/referencespapers?referenceid=2799954; @url:https://www.tandfonline.com/doi/pdf/10.1207/s15430421tip4104_2], which includes six cognitive levels: 
 
 ### Table 3. Bloom’s Taxonomy
 
@@ -354,7 +354,7 @@ The evaluation of LLMs often uses Bloom’s taxonomy [@url:https://www.scirp.org
 | Evaluate        | Justify a decision or course of action based on sound analysis | Judge, critique, recommend, justify, assess, appraise             |
 | Create          | Produce new or original work using existing information    | Design, assemble, construct, develop, formulate, author           |
 
-SciEval [@urlhttps://arxiv.org/abs/2308.13149] has recently introduced a framework for evaluating scientific LLMs across four dimensions: basic knowledge, knowledge application, scientific calculation, and research ability. These dimensions are based on the cognitive domains in Bloom’s taxonomy. KnowEval [@url:https://arxiv.org/abs/2401.14656] assesses the depth of knowledge LLMs can grasp, aiming for human-level comprehension. KnowEval categorizes Text-Sci-LLMs into Pre-college, College, and Post-college levels based on the complexity of scientific knowledge.
+SciEval [@url:https://arxiv.org/abs/2308.13149] has recently introduced a framework for evaluating scientific LLMs across four dimensions: basic knowledge, knowledge application, scientific calculation, and research ability. These dimensions are based on the cognitive domains in Bloom’s taxonomy. KnowEval [@url:https://arxiv.org/abs/2401.14656] assesses the depth of knowledge LLMs can grasp, aiming for human-level comprehension. KnowEval categorizes Text-Sci-LLMs into Pre-college, College, and Post-college levels based on the complexity of scientific knowledge.
 
 ### Table 4. Categories for KnowEval
 
@@ -565,7 +565,7 @@ The effectiveness of AI tools relies heavily on the quality of their algorithms 
 
 ### Development of harmful biological agents
 
-AI models have the potential to assist in the creation and distribution of harmful biological agents. They could, for example, enable an actor to design a biological agent with favorable properties [@url:https://www.nature.com/articles/s41587-023-01705-y] and modify the agent’s delivery mechanism in a manner that optimizes infectious doses and ensures environmental survival [@url:https://pubmed.ncbi.nlm.nih.gov/37881323].This possibility raises significant biosecurity concerns. Amateur users are unlikely to utilize BDTs, but experts with malicious intent could leverage their scientific training and specific AI models to design new pathogens, develop synthetic DNA strands that evade screening measures, or enhance the efficiency of bioweapon production [@url:https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full]. As with any AI system, BDTs depend on the quality of their training data, which can sometimes be limited by incompleteness or unintentional biases. While BDTs have been used to digitally generate potentially risky genetic sequences, research has yet to show if the synthesized sequences could be used to create harmful biological agents. Establishing empirical baselines metrics is essential for conducting risk assessments and tracking changes in risk over time [@url:https://www.schumer.senate.gov/imo/media/doc/Alexander%20Titus%20-%20Statement.pdf]. In AI applications within the life sciences, these metrics and baselines are not yet defined. To assess this risk, we need to systematically evaluate current AI systems’ abilities to generate new sequences versus enhancing existing ones. 
+AI models have the potential to assist in the creation and distribution of harmful biological agents. They could, for example, enable an actor to design a biological agent with favorable properties [@url:https://www.nature.com/articles/s41587-023-01705-y] and modify the agent’s delivery mechanism in a manner that optimizes infectious doses and ensures environmental survival [@url:https://pubmed.ncbi.nlm.nih.gov/37881323].This possibility raises significant biosecurity concerns. Amateur users are unlikely to utilize BDTs, but experts with malicious intent could leverage their scientific training and specific AI models to design new pathogens, develop synthetic DNA strands that evade screening measures, or enhance the efficiency of bioweapon production [@url:https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full]. As with any AI system, BDTs depend on the quality of their training data, which can sometimes be limited by incompleteness or unintentional biases. While BDTs have been used to digitally generate potentially risky genetic sequences, research has yet to show if the synthesized sequences could be used to create harmful biological agents. Establishing empirical baselines metrics is essential for conducting risk assessments and tracking changes in risk over time [@Titus2023]. In AI applications within the life sciences, these metrics and baselines are not yet defined. To assess this risk, we need to systematically evaluate current AI systems’ abilities to generate new sequences versus enhancing existing ones. 
 
 ### Ethics in AI for Life Sciences
 
