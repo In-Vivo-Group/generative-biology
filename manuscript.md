@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-17" />
   <meta name="citation_publication_date" content="2024-06-17" />
   <meta property="article:published_time" content="2024-06-17" />
-  <meta name="dc.modified" content="2024-06-17T20:16:17+00:00" />
-  <meta property="article:modified_time" content="2024-06-17T20:16:17+00:00" />
+  <meta name="dc.modified" content="2024-06-17T23:18:56+00:00" />
+  <meta property="article:modified_time" content="2024-06-17T23:18:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/547185cfba825c6b99b338965d734f5bc3cbd2b6/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/547185cfba825c6b99b338965d734f5bc3cbd2b6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/547185cfba825c6b99b338965d734f5bc3cbd2b6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/b2233f4fc1bc16d15fc775c5f3bf60236742f66d/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/b2233f4fc1bc16d15fc775c5f3bf60236742f66d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/b2233f4fc1bc16d15fc775c5f3bf60236742f66d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/547185cfba825c6b99b338965d734f5bc3cbd2b6/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/b2233f4fc1bc16d15fc775c5f3bf60236742f66d/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@547185c](https://github.com/In-Vivo-Group/generative-biology/tree/547185cfba825c6b99b338965d734f5bc3cbd2b6)
+from [In-Vivo-Group/generative-biology@b2233f4](https://github.com/In-Vivo-Group/generative-biology/tree/b2233f4fc1bc16d15fc775c5f3bf60236742f66d)
 on June 17, 2024.
 </em></small>
 
@@ -565,7 +565,7 @@ The effectiveness of AI tools relies heavily on the quality of their algorithms 
 
 ### Development of harmful biological agents
 
-AI models have the potential to assist in the creation and distribution of harmful biological agents. They could, for example, enable an actor to design a biological agent with favorable properties [@url:https://www.nature.com/articles/s41587-023-01705-y] and modify the agent’s delivery mechanism in a manner that optimizes infectious doses and ensures environmental survival [@url:https://pubmed.ncbi.nlm.nih.gov/37881323].This possibility raises significant biosecurity concerns. Amateur users are unlikely to utilize BDTs, but experts with malicious intent could leverage their scientific training and specific AI models to design new pathogens, develop synthetic DNA strands that evade screening measures, or enhance the efficiency of bioweapon production [@url:https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full]. As with any AI system, BDTs depend on the quality of their training data, which can sometimes be limited by incompleteness or unintentional biases. While BDTs have been used to digitally generate potentially risky genetic sequences, research has yet to show if the synthesized sequences could be used to create harmful biological agents. Establishing empirical baselines metrics is essential for conducting risk assessments and tracking changes in risk over time [@Titus2023]. In AI applications within the life sciences, these metrics and baselines are not yet defined. To assess this risk, we need to systematically evaluate current AI systems’ abilities to generate new sequences versus enhancing existing ones. 
+AI models have the potential to assist in the creation and distribution of harmful biological agents. They could, for example, enable an actor to design a biological agent with favorable properties [@url:https://www.nature.com/articles/s41587-023-01705-y] and modify the agent’s delivery mechanism in a manner that optimizes infectious doses and ensures environmental survival [@url:https://pubmed.ncbi.nlm.nih.gov/37881323].This possibility raises significant biosecurity concerns. Amateur users are unlikely to utilize BDTs, but experts with malicious intent could leverage their scientific training and specific AI models to design new pathogens, develop synthetic DNA strands that evade screening measures, or enhance the efficiency of bioweapon production [@url:https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full]. As with any AI system, BDTs depend on the quality of their training data, which can sometimes be limited by incompleteness or unintentional biases. While BDTs have been used to digitally generate potentially risky genetic sequences, research has yet to show if the synthesized sequences could be used to create harmful biological agents. Establishing empirical baselines metrics is essential for conducting risk assessments and tracking changes in risk over time [@url:https://iovine-young.usc.edu/the-pulse/transformative-ai-alexander-titus#:~:text=The%20statement%2C%20%E2%80%9CRisk%2C%20Alignment%2C%20%26%20Guarding%20Against%20Doomsday%20Scenarios]. In AI applications within the life sciences, these metrics and baselines are not yet defined. To assess this risk, we need to systematically evaluate current AI systems’ abilities to generate new sequences versus enhancing existing ones. 
 
 ### Ethics in AI for Life Sciences
 
