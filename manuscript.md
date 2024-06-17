@@ -6,7 +6,7 @@ keywords:
 - Machine Learning
 - Biology
 lang: en-US
-date-meta: '2024-06-15'
+date-meta: '2024-06-17'
 author-meta:
 - Samuel A. Donkor
 - Matthew E. Walsh
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Computing in the Life Sciences: From Early Algorithms to Modern AI" />
   <meta property="og:title" content="Computing in the Life Sciences: From Early Algorithms to Modern AI" />
   <meta property="twitter:title" content="Computing in the Life Sciences: From Early Algorithms to Modern AI" />
-  <meta name="dc.date" content="2024-06-15" />
-  <meta name="citation_publication_date" content="2024-06-15" />
-  <meta property="article:published_time" content="2024-06-15" />
-  <meta name="dc.modified" content="2024-06-15T20:07:22+00:00" />
-  <meta property="article:modified_time" content="2024-06-15T20:07:22+00:00" />
+  <meta name="dc.date" content="2024-06-17" />
+  <meta name="citation_publication_date" content="2024-06-17" />
+  <meta property="article:published_time" content="2024-06-17" />
+  <meta name="dc.modified" content="2024-06-17T01:10:16+00:00" />
+  <meta property="article:modified_time" content="2024-06-17T01:10:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/110a61af127168c0e271a5a6e089d279e6cf770f/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/110a61af127168c0e271a5a6e089d279e6cf770f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/110a61af127168c0e271a5a6e089d279e6cf770f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/021cd5e53f6a9ffef8a37eeb39a220de800d4af8/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/021cd5e53f6a9ffef8a37eeb39a220de800d4af8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/021cd5e53f6a9ffef8a37eeb39a220de800d4af8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/110a61af127168c0e271a5a6e089d279e6cf770f/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/021cd5e53f6a9ffef8a37eeb39a220de800d4af8/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@110a61a](https://github.com/In-Vivo-Group/generative-biology/tree/110a61af127168c0e271a5a6e089d279e6cf770f)
-on June 15, 2024.
+from [In-Vivo-Group/generative-biology@021cd5e](https://github.com/In-Vivo-Group/generative-biology/tree/021cd5e53f6a9ffef8a37eeb39a220de800d4af8)
+on June 17, 2024.
 </em></small>
 
 
@@ -115,7 +115,6 @@ on June 15, 2024.
     <br>
   <small>
      In Vivo Group; U.S. National Security Commission on Emerging Biotechnology; Information Sciences Institute & Iovine and Young Academy, University of Southern California
-     · Funded by Grant TBD
   </small>
 
 
