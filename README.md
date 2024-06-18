@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/In-Vivo-Group/generative-biology/tree/gh-pages) branch hosts the contents of this directory at <https://In-Vivo-Group.github.io/generative-biology/>.
-The permalink for this webpage version is <https://In-Vivo-Group.github.io/generative-biology/v/6cfb8f2483a50fd0cab47f133f49df62627c7aac/>.
+The permalink for this webpage version is <https://In-Vivo-Group.github.io/generative-biology/v/fa7a843cdf1a9091487298b8661dced2f8af2fe6/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://In-Vivo-Group.github.io/generative-biology/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`6cfb8f2483a50fd0cab47f133f49df62627c7aac`](https://github.com/In-Vivo-Group/generative-biology/commit/6cfb8f2483a50fd0cab47f133f49df62627c7aac).
+[`fa7a843cdf1a9091487298b8661dced2f8af2fe6`](https://github.com/In-Vivo-Group/generative-biology/commit/fa7a843cdf1a9091487298b8661dced2f8af2fe6).
