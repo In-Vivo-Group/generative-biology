@@ -18,7 +18,7 @@ Berners
 Bing
 BioGPT
 Bioinfo
-bioinformatics
+Bioinformatics
 BioMedGPT
 biomolecular
 biomolecules
@@ -53,7 +53,6 @@ contrastive
 convolutional
 coreference
 CP
-CRisk
 CRISPR
 cyber
 cybersecurity
@@ -192,9 +191,9 @@ PHRAP
 phylogenetic
 Phylogenetics
 Piz
-PLM
+pLM
 PMLM
-polymerase
+Polymerase
 polymorphisms
 pre
 preprint
@@ -243,7 +242,7 @@ SpliceBERT
 SPs
 StyleGAN
 subcellular
-subtasks
+Subtasks
 subunits
 summarization
 supercomputing

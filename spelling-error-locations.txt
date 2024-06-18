@@ -755,9 +755,7 @@ content/06.Risks, Limitations and Future Directions.md:13:BDTs
 content/06.Risks, Limitations and Future Directions.md:13:BDTs
 content/06.Risks, Limitations and Future Directions.md:13:biosecurity
 content/06.Risks, Limitations and Future Directions.md:13:bioweapon
-content/06.Risks, Limitations and Future Directions.md:13:iovine
 content/06.Risks, Limitations and Future Directions.md:13:ncbi
-content/06.Risks, Limitations and Future Directions.md:13:transformative
 content/06.Risks, Limitations and Future Directions.md:17:ncbi
 content/06.Risks, Limitations and Future Directions.md:17:transformative
 content/06.Risks, Limitations and Future Directions.md:23:arxiv
