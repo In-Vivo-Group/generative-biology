@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-18" />
   <meta name="citation_publication_date" content="2024-06-18" />
   <meta property="article:published_time" content="2024-06-18" />
-  <meta name="dc.modified" content="2024-06-18T15:52:24+00:00" />
-  <meta property="article:modified_time" content="2024-06-18T15:52:24+00:00" />
+  <meta name="dc.modified" content="2024-06-18T20:49:07+00:00" />
+  <meta property="article:modified_time" content="2024-06-18T20:49:07+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/6cfb8f2483a50fd0cab47f133f49df62627c7aac/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/6cfb8f2483a50fd0cab47f133f49df62627c7aac/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/6cfb8f2483a50fd0cab47f133f49df62627c7aac/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/fa7a843cdf1a9091487298b8661dced2f8af2fe6/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/fa7a843cdf1a9091487298b8661dced2f8af2fe6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/fa7a843cdf1a9091487298b8661dced2f8af2fe6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/6cfb8f2483a50fd0cab47f133f49df62627c7aac/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/fa7a843cdf1a9091487298b8661dced2f8af2fe6/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@6cfb8f2](https://github.com/In-Vivo-Group/generative-biology/tree/6cfb8f2483a50fd0cab47f133f49df62627c7aac)
+from [In-Vivo-Group/generative-biology@fa7a843](https://github.com/In-Vivo-Group/generative-biology/tree/fa7a843cdf1a9091487298b8661dced2f8af2fe6)
 on June 18, 2024.
 </em></small>
 
@@ -133,6 +133,33 @@ Computing in the life sciences has undergone a transformative evolution, from ea
 
 *The views and opinions expressed within this manuscript are those of the authors and do not necessarily reflect the views and opinions of any organization the authors are affiliated with.*
 
+
+
+# Executive Summary
+
+## Computing in the Life Sciences: From Early Algorithms to Modern AI
+
+The integration of computing technologies into the life sciences has revolutionized the field, enabling unprecedented advancements in biological research and applications. This manuscript traces the historical milestones and technological advancements that have shaped this transformative journey.
+
+The early days of computing in the life sciences saw the use of primitive computers for population genetics calculations and biological modeling in the 1950s. This period marked the rise of computational biology, with computers becoming indispensable for protein crystallography and the determination of three-dimensional protein structures.
+
+The 1960s and 1970s witnessed significant developments, including the shift from protein to DNA analysis, driven by the advent of DNA sequencing methods. Dynamic programming algorithms for sequence alignment and pioneering methods for inferring phylogenetic trees from DNA sequences emerged during this time.
+
+The 1980s and 1990s were pivotal, characterized by parallel advancements in molecular biology and computing. Gene targeting techniques, the polymerase chain reaction (PCR), and the emergence of bioinformatics software suites propelled the field forward. The completion of the Haemophilus influenzae genome in the mid-1990s ushered in the genomic era, culminating in the publication of the human genome at the turn of the century.
+
+The last two decades have seen the integration of artificial intelligence (AI) and machine learning (ML) into the life sciences, revolutionizing data analysis, drug discovery, and personalized medicine. AI models, from early expert systems to modern deep learning architectures, have enhanced our ability to predict protein structures, analyze genomic data, and design novel biological entities.
+
+The manuscript delves into the various categories of AI-enabled tools used in the life sciences, focusing on large language models (LLMs) and biological design tools (BDTs). LLMs, such as GPT and BERT, have been adapted for the life sciences domain, giving rise to specialized models like scientific LLMs (Sci-LLMs), protein LLMs (Prot-LLMs), and genomic LLMs (Gene-LLMs). These models excel at tasks such as processing scientific literature, predicting protein structures and functions, and analyzing genomic data.
+
+BDTs, on the other hand, aid in the design of proteins, viral vectors, and other biological agents. Protein structure prediction tools, like AlphaFold and RoseTTAFold, have revolutionized the field by drastically reducing the time required to determine protein structures. Other subcategories of BDTs include protein sequence design tools, small molecule design tools, vaccine design tools, and genetic modification tools, each serving specific purposes in biological research and applications.
+
+The manuscript also highlights the importance of benchmarking and evaluating AI models in the life sciences. Bloom's taxonomy and frameworks like SciEval and KnowEval are used to assess the capabilities of LLMs across different cognitive levels and scientific knowledge domains. Specific benchmarks for Sci-LLMs, Prot-LLMs, Gene-LLMs, and multimodal Sci-LLMs are discussed, emphasizing the need for rigorous evaluation to ensure the reliability and effectiveness of these tools.
+
+While the integration of AI in the life sciences has enabled rapid progress, it also presents potential risks and limitations. Inaccurate outputs from AI models, stemming from biased or incomplete training data, can misguide researchers and waste valuable resources. The potential misuse of AI in creating harmful biological agents raises significant biosecurity concerns. Ethical considerations, such as data privacy, informed consent, and algorithmic bias, must be addressed to ensure responsible and beneficial use of AI in the life sciences.
+
+Looking ahead, the manuscript underscores the need for more comprehensive benchmarks that assess AI models' performance in real-world applications and their ability to adapt to evolving scientific knowledge. Techniques like red teaming, blue teaming, and violet teaming are proposed to build resilient AI systems that minimize harm and maximize benefit. The integration of Machine Learning Security Operations (MLSecOps) is also highlighted as a crucial step in ensuring the safety and security of AI models in the life sciences.
+
+In conclusion, the integration of computing technologies into the life sciences has transformed the field, enabling unprecedented advancements in biological research and applications. From the early days of computational modeling to the sophisticated AI-driven tools of today, this journey has been marked by historical milestones and technological breakthroughs. As we move forward, harnessing the power of AI, cloud computing, and other emerging technologies will continue to drive innovation, offering new solutions to complex biological problems and improving human health. However, navigating the challenges and ethical considerations associated with AI in the life sciences will be crucial to ensure its responsible and beneficial use.
 
 
 # Introduction
