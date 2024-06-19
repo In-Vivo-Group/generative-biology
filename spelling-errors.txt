@@ -10,7 +10,7 @@ ANNs
 antimicrobials
 arXiv
 Asilomar
-Autoencoders
+autoencoders
 Autoregressive
 backpropagation
 BDTs
@@ -41,7 +41,7 @@ CATH
 Celera
 centric
 CERN
-Chatbots
+chatbots
 ChatDrug
 ChatGPT
 ChatMol
@@ -104,7 +104,7 @@ GenBank
 generalizability
 GENESCAPE
 genitalium
-genomic
+Genomic
 GenSLMs
 glycomics
 GNNs
@@ -161,7 +161,7 @@ MPNN
 MSA
 multicellular
 Multimer
-Multimodal
+multimodal
 mutagenesis
 mwalsh
 MYCIN
@@ -247,7 +247,7 @@ subtasks
 subunits
 summarization
 supercomputing
-superfamily
+Superfamily
 Tandy
 Taq
 TFBert
@@ -258,7 +258,7 @@ TRS
 TruthfulQA
 VAEs
 Variational
-Vivo
+vivo
 VSeq
 Wunsch
 ZFDesign

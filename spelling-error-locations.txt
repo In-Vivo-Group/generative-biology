@@ -1,43 +1,43 @@
 content/01.abstract.md:3:bioinformatics
 content/01.abstract.md:3:transformative
-content/02.executive summary.md:5:transformative
-content/02.executive summary.md:9:phylogenetic
-content/02.executive summary.md:11:bioinformatics
+content/02.executive summary.md:3:transformative
+content/02.executive summary.md:7:phylogenetic
+content/02.executive summary.md:9:bioinformatics
+content/02.executive summary.md:9:genomic
+content/02.executive summary.md:9:Haemophilus
+content/02.executive summary.md:9:influenzae
+content/02.executive summary.md:9:PCR
+content/02.executive summary.md:9:polymerase
 content/02.executive summary.md:11:genomic
-content/02.executive summary.md:11:Haemophilus
-content/02.executive summary.md:11:influenzae
-content/02.executive summary.md:11:PCR
-content/02.executive summary.md:11:polymerase
+content/02.executive summary.md:13:BDTs
 content/02.executive summary.md:13:genomic
+content/02.executive summary.md:13:genomic
+content/02.executive summary.md:13:GPT
+content/02.executive summary.md:13:LLMs
+content/02.executive summary.md:13:LLMs
+content/02.executive summary.md:13:LLMs
+content/02.executive summary.md:13:LLMs
+content/02.executive summary.md:13:LLMs
+content/02.executive summary.md:13:LLMs
+content/02.executive summary.md:13:LLMs
+content/02.executive summary.md:13:LLMs
+content/02.executive summary.md:13:Prot
+content/02.executive summary.md:15:AlphaFold
 content/02.executive summary.md:15:BDTs
-content/02.executive summary.md:15:genomic
-content/02.executive summary.md:15:genomic
-content/02.executive summary.md:15:GPT
-content/02.executive summary.md:15:LLMs
-content/02.executive summary.md:15:LLMs
-content/02.executive summary.md:15:LLMs
-content/02.executive summary.md:15:LLMs
-content/02.executive summary.md:15:LLMs
-content/02.executive summary.md:15:LLMs
-content/02.executive summary.md:15:LLMs
-content/02.executive summary.md:15:LLMs
-content/02.executive summary.md:15:Prot
-content/02.executive summary.md:17:AlphaFold
-content/02.executive summary.md:17:BDTs
-content/02.executive summary.md:17:BDTs
-content/02.executive summary.md:17:RoseTTAFold
-content/02.executive summary.md:19:benchmarking
-content/02.executive summary.md:19:KnowEval
-content/02.executive summary.md:19:LLMs
-content/02.executive summary.md:19:LLMs
-content/02.executive summary.md:19:LLMs
-content/02.executive summary.md:19:LLMs
-content/02.executive summary.md:19:LLMs
-content/02.executive summary.md:19:multimodal
-content/02.executive summary.md:19:Prot
-content/02.executive summary.md:19:SciEval
-content/02.executive summary.md:21:biosecurity
-content/02.executive summary.md:23:MLSecOps
+content/02.executive summary.md:15:BDTs
+content/02.executive summary.md:15:RoseTTAFold
+content/02.executive summary.md:17:benchmarking
+content/02.executive summary.md:17:KnowEval
+content/02.executive summary.md:17:LLMs
+content/02.executive summary.md:17:LLMs
+content/02.executive summary.md:17:LLMs
+content/02.executive summary.md:17:LLMs
+content/02.executive summary.md:17:LLMs
+content/02.executive summary.md:17:multimodal
+content/02.executive summary.md:17:Prot
+content/02.executive summary.md:17:SciEval
+content/02.executive summary.md:19:biosecurity
+content/02.executive summary.md:21:MLSecOps
 content/03.intro.md:3:genomic
 content/03.intro.md:3:morphogenesis
 content/03.intro.md:5:bioinformatics
@@ -392,6 +392,7 @@ content/06.AI in the Life Sciences.md:35:LM
 content/06.AI in the Life Sciences.md:35:NLP
 content/06.AI in the Life Sciences.md:35:pre
 content/06.AI in the Life Sciences.md:39:LLMs
+content/06.AI in the Life Sciences.md:39:ncbi
 content/06.AI in the Life Sciences.md:52:arxiv
 content/06.AI in the Life Sciences.md:52:arxiv
 content/06.AI in the Life Sciences.md:52:KnowEval
