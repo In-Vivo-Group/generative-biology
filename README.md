@@ -2,7 +2,7 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![arXiv](https://img.shields.io/badge/arXiv-<paper_id>-brightgreen.svg)](https://arxiv.org/abs/<paper_id>)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.12108-brightgreen.svg)](https://arxiv.org/abs/2406.12108)
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://in-vivo-group.github.io/generative-biology/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://in-vivo-group.github.io/generative-biology/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/in-vivo-group/generative-biology/workflows/Manubot/badge.svg)](https://github.com/in-vivo-group/generative-biology/actions)
