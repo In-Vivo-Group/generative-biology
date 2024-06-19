@@ -79,7 +79,7 @@ DrugGPT
 EDA
 Edman
 EI
-embeddings
+Embeddings
 EMBL
 ENBED
 endonucleases
@@ -161,7 +161,7 @@ MPNN
 MSA
 multicellular
 Multimer
-multimodal
+Multimodal
 mutagenesis
 mwalsh
 MYCIN
@@ -192,7 +192,7 @@ PHRAP
 phylogenetic
 Phylogenetics
 Piz
-pLM
+PLM
 PMLM
 polymerase
 polymorphisms
@@ -243,10 +243,10 @@ SpliceBERT
 SPs
 StyleGAN
 subcellular
-Subtasks
+subtasks
 subunits
 summarization
-Supercomputing
+supercomputing
 superfamily
 Tandy
 Taq
