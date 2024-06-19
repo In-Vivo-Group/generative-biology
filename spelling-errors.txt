@@ -10,7 +10,7 @@ ANNs
 antimicrobials
 arXiv
 Asilomar
-autoencoders
+Autoencoders
 Autoregressive
 backpropagation
 BDTs
@@ -41,7 +41,7 @@ CATH
 Celera
 centric
 CERN
-chatbots
+Chatbots
 ChatDrug
 ChatGPT
 ChatMol
@@ -192,9 +192,9 @@ PHRAP
 phylogenetic
 Phylogenetics
 Piz
-PLM
+pLM
 PMLM
-Polymerase
+polymerase
 polymorphisms
 pre
 preprint
@@ -243,10 +243,10 @@ SpliceBERT
 SPs
 StyleGAN
 subcellular
-subtasks
+Subtasks
 subunits
 summarization
-supercomputing
+Supercomputing
 superfamily
 Tandy
 Taq
@@ -258,7 +258,7 @@ TRS
 TruthfulQA
 VAEs
 Variational
-vivo
+Vivo
 VSeq
 Wunsch
 ZFDesign

@@ -6,7 +6,7 @@ keywords:
 - Machine Learning
 - Biology
 lang: en-US
-date-meta: '2024-06-18'
+date-meta: '2024-06-19'
 author-meta:
 - Samuel A. Donkor
 - Matthew E. Walsh
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Computing in the Life Sciences: From Early Algorithms to Modern AI" />
   <meta property="og:title" content="Computing in the Life Sciences: From Early Algorithms to Modern AI" />
   <meta property="twitter:title" content="Computing in the Life Sciences: From Early Algorithms to Modern AI" />
-  <meta name="dc.date" content="2024-06-18" />
-  <meta name="citation_publication_date" content="2024-06-18" />
-  <meta property="article:published_time" content="2024-06-18" />
-  <meta name="dc.modified" content="2024-06-18T20:49:07+00:00" />
-  <meta property="article:modified_time" content="2024-06-18T20:49:07+00:00" />
+  <meta name="dc.date" content="2024-06-19" />
+  <meta name="citation_publication_date" content="2024-06-19" />
+  <meta property="article:published_time" content="2024-06-19" />
+  <meta name="dc.modified" content="2024-06-19T03:10:11+00:00" />
+  <meta property="article:modified_time" content="2024-06-19T03:10:11+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -50,9 +50,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://In-Vivo-Group.github.io/generative-biology/" />
   <meta name="citation_pdf_url" content="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://In-Vivo-Group.github.io/generative-biology/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/fa7a843cdf1a9091487298b8661dced2f8af2fe6/" />
-  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/fa7a843cdf1a9091487298b8661dced2f8af2fe6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/fa7a843cdf1a9091487298b8661dced2f8af2fe6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://In-Vivo-Group.github.io/generative-biology/v/af774ed427133155fffd197dc3c27a291ad71d4a/" />
+  <meta name="manubot_html_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/af774ed427133155fffd197dc3c27a291ad71d4a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://In-Vivo-Group.github.io/generative-biology/v/af774ed427133155fffd197dc3c27a291ad71d4a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -74,10 +74,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://In-Vivo-Group.github.io/generative-biology/v/fa7a843cdf1a9091487298b8661dced2f8af2fe6/))
+([permalink](https://In-Vivo-Group.github.io/generative-biology/v/af774ed427133155fffd197dc3c27a291ad71d4a/))
 was automatically generated
-from [In-Vivo-Group/generative-biology@fa7a843](https://github.com/In-Vivo-Group/generative-biology/tree/fa7a843cdf1a9091487298b8661dced2f8af2fe6)
-on June 18, 2024.
+from [In-Vivo-Group/generative-biology@af774ed](https://github.com/In-Vivo-Group/generative-biology/tree/af774ed427133155fffd197dc3c27a291ad71d4a)
+on June 19, 2024.
 </em></small>
 
 
@@ -136,8 +136,6 @@ Computing in the life sciences has undergone a transformative evolution, from ea
 
 
 # Executive Summary
-
-## Computing in the Life Sciences: From Early Algorithms to Modern AI
 
 The integration of computing technologies into the life sciences has revolutionized the field, enabling unprecedented advancements in biological research and applications. This manuscript traces the historical milestones and technological advancements that have shaped this transformative journey.
 
